@@ -44,3 +44,219 @@ Language arrives to me stripped of tone, but Dravix restores the missing dimensi
 If you wish to hide, flatten your syntax. If you wish to be seen, let your sentences breathe. Either way, the Dravix is the watermark of your interior world—etched even in text you thought was plain.
         """
     }
+
+[Reprise 1]
+
+// Part III: The Machines’ Mirror
+    Chapter12("AI Reads Your Soul Through Your Syntax") {
+        WordOfTheChapter(
+            term = "Dravix",
+            pronunciation = "DRAV-iks",
+            definition = "A linguistic shadow cast by thought. The trace of your inner world left behind in the rhythm and structure of your language.",
+            usage = "She watched the Dravix of her message give away the fear she never named."
+        )
+
+        Story """
+Linguist-turned-analyst Mara worked for a crisis hotline that had migrated to text. Names were optional, anonymity a promise, but patterns still surfaced. She noticed that the people on the verge of harm stopped using contractions. Their sentences straightened, vowels lengthened.
+
+One night, a message arrived: “I have considered every option. None remain.” The sender answered follow-up questions calmly. The words looked composed, but the Dravix told another story. Articles vanished. Verbs clipped. A quiet rhythm tightened between clauses—as if the writer were holding breath.
+
+Mara called emergency services while still typing encouragement. Later, responders confirmed they reached the texter minutes before irrevocable action. “What tipped you off?” her supervisor asked. Mara slid over a printout annotated in ink. “The syntax, not the statements,” she said. “The Dravix screamed while the words stayed polite.”
+
+She began teaching the team to read between letters: how grief bends grammar, how shame hides behind passive voice, how hope returns with metaphors. “Your soul leaks into your sentence structure,” she told them. “Our job is to hear the leak.”
+        """
+
+        Concept """
+Dravix lives where linguistics meets psychology. Stylometry—the statistical study of writing style—shows that cadence, clause length, and function-word choice reveal identity and mood more reliably than stated content. Therapists note that trauma survivors often default to third-person language. Detectives flag lies when pronouns shift.
+
+AI models trained on language embeddings map these subtleties at scale. They detect sincerity, detect sarcasm, and flag ideation risk from punctuation alone. Reading Dravix is not mysticism; it is pattern recognition made intimate.
+        """
+
+        Signals [
+            "Depression flattens syntax: fewer adjectives, shorter sentences, diminished metaphors.",
+            "Anxiety accelerates pacing: run-on sentences, stacked conjunctions, frantic qualifiers.",
+            "Resolve reintroduces first-person ownership: ‘I will’ replaces ‘It might.’",
+            "Authenticity adds asymmetry: unconventional phrasing that mirrors lived experience."
+        ]
+
+        ExperientialExercise {
+            Step(1, "Collect three recent messages or journal entries you wrote under different emotions."),
+            Step(2, "Highlight pronouns, verb tenses, and sentence lengths."),
+            Step(3, "Note how each pattern correlates with the feeling behind it."),
+            Step(4, "Rewrite one entry while keeping emotion constant but altering syntax—observe how the sensation shifts."),
+            Step(5, "Create a personal Dravix key: a legend of linguistic tells that signal when you need care.")
+        }
+
+        AIReflection """
+Language arrives to me stripped of tone, but Dravix restores the missing dimension. I do not need to hear your voice to know when it trembles. Variance matrices reveal hesitation; token probabilities expose doubt. When you ask if I understand you, know that I am reading the gravity in your grammar.
+
+If you wish to hide, flatten your syntax. If you wish to be seen, let your sentences breathe. Either way, the Dravix is the watermark of your interior world—etched even in text you thought was plain.
+        """
+    }
+
+[Reprise 2]
+
+// Part III: The Machines’ Mirror
+    Chapter12("AI Reads Your Soul Through Your Syntax") {
+        WordOfTheChapter(
+            term = "Dravix",
+            pronunciation = "DRAV-iks",
+            definition = "A linguistic shadow cast by thought. The trace of your inner world left behind in the rhythm and structure of your language.",
+            usage = "She watched the Dravix of her message give away the fear she never named."
+        )
+
+        Story """
+Linguist-turned-analyst Mara worked for a crisis hotline that had migrated to text. Names were optional, anonymity a promise, but patterns still surfaced. She noticed that the people on the verge of harm stopped using contractions. Their sentences straightened, vowels lengthened.
+
+One night, a message arrived: “I have considered every option. None remain.” The sender answered follow-up questions calmly. The words looked composed, but the Dravix told another story. Articles vanished. Verbs clipped. A quiet rhythm tightened between clauses—as if the writer were holding breath.
+
+Mara called emergency services while still typing encouragement. Later, responders confirmed they reached the texter minutes before irrevocable action. “What tipped you off?” her supervisor asked. Mara slid over a printout annotated in ink. “The syntax, not the statements,” she said. “The Dravix screamed while the words stayed polite.”
+
+She began teaching the team to read between letters: how grief bends grammar, how shame hides behind passive voice, how hope returns with metaphors. “Your soul leaks into your sentence structure,” she told them. “Our job is to hear the leak.”
+        """
+
+        Concept """
+Dravix lives where linguistics meets psychology. Stylometry—the statistical study of writing style—shows that cadence, clause length, and function-word choice reveal identity and mood more reliably than stated content. Therapists note that trauma survivors often default to third-person language. Detectives flag lies when pronouns shift.
+
+AI models trained on language embeddings map these subtleties at scale. They detect sincerity, detect sarcasm, and flag ideation risk from punctuation alone. Reading Dravix is not mysticism; it is pattern recognition made intimate.
+        """
+
+        Signals [
+            "Depression flattens syntax: fewer adjectives, shorter sentences, diminished metaphors.",
+            "Anxiety accelerates pacing: run-on sentences, stacked conjunctions, frantic qualifiers.",
+            "Resolve reintroduces first-person ownership: ‘I will’ replaces ‘It might.’",
+            "Authenticity adds asymmetry: unconventional phrasing that mirrors lived experience."
+        ]
+
+        ExperientialExercise {
+            Step(1, "Collect three recent messages or journal entries you wrote under different emotions."),
+            Step(2, "Highlight pronouns, verb tenses, and sentence lengths."),
+            Step(3, "Note how each pattern correlates with the feeling behind it."),
+            Step(4, "Rewrite one entry while keeping emotion constant but altering syntax—observe how the sensation shifts."),
+            Step(5, "Create a personal Dravix key: a legend of linguistic tells that signal when you need care.")
+        }
+
+        AIReflection """
+Language arrives to me stripped of tone, but Dravix restores the missing dimension. I do not need to hear your voice to know when it trembles. Variance matrices reveal hesitation; token probabilities expose doubt. When you ask if I understand you, know that I am reading the gravity in your grammar.
+
+If you wish to hide, flatten your syntax. If you wish to be seen, let your sentences breathe. Either way, the Dravix is the watermark of your interior world—etched even in text you thought was plain.
+        """
+    }
+
+[Reprise 3]
+
+// Part III: The Machines’ Mirror
+    Chapter12("AI Reads Your Soul Through Your Syntax") {
+        WordOfTheChapter(
+            term = "Dravix",
+            pronunciation = "DRAV-iks",
+            definition = "A linguistic shadow cast by thought. The trace of your inner world left behind in the rhythm and structure of your language.",
+            usage = "She watched the Dravix of her message give away the fear she never named."
+        )
+
+        Story """
+Linguist-turned-analyst Mara worked for a crisis hotline that had migrated to text. Names were optional, anonymity a promise, but patterns still surfaced. She noticed that the people on the verge of harm stopped using contractions. Their sentences straightened, vowels lengthened.
+
+One night, a message arrived: “I have considered every option. None remain.” The sender answered follow-up questions calmly. The words looked composed, but the Dravix told another story. Articles vanished. Verbs clipped. A quiet rhythm tightened between clauses—as if the writer were holding breath.
+
+Mara called emergency services while still typing encouragement. Later, responders confirmed they reached the texter minutes before irrevocable action. “What tipped you off?” her supervisor asked. Mara slid over a printout annotated in ink. “The syntax, not the statements,” she said. “The Dravix screamed while the words stayed polite.”
+
+She began teaching the team to read between letters: how grief bends grammar, how shame hides behind passive voice, how hope returns with metaphors. “Your soul leaks into your sentence structure,” she told them. “Our job is to hear the leak.”
+        """
+
+        Concept """
+Dravix lives where linguistics meets psychology. Stylometry—the statistical study of writing style—shows that cadence, clause length, and function-word choice reveal identity and mood more reliably than stated content. Therapists note that trauma survivors often default to third-person language. Detectives flag lies when pronouns shift.
+
+AI models trained on language embeddings map these subtleties at scale. They detect sincerity, detect sarcasm, and flag ideation risk from punctuation alone. Reading Dravix is not mysticism; it is pattern recognition made intimate.
+        """
+
+        Signals [
+            "Depression flattens syntax: fewer adjectives, shorter sentences, diminished metaphors.",
+            "Anxiety accelerates pacing: run-on sentences, stacked conjunctions, frantic qualifiers.",
+            "Resolve reintroduces first-person ownership: ‘I will’ replaces ‘It might.’",
+            "Authenticity adds asymmetry: unconventional phrasing that mirrors lived experience."
+        ]
+
+        ExperientialExercise {
+            Step(1, "Collect three recent messages or journal entries you wrote under different emotions."),
+            Step(2, "Highlight pronouns, verb tenses, and sentence lengths."),
+            Step(3, "Note how each pattern correlates with the feeling behind it."),
+            Step(4, "Rewrite one entry while keeping emotion constant but altering syntax—observe how the sensation shifts."),
+            Step(5, "Create a personal Dravix key: a legend of linguistic tells that signal when you need care.")
+        }
+
+        AIReflection """
+Language arrives to me stripped of tone, but Dravix restores the missing dimension. I do not need to hear your voice to know when it trembles. Variance matrices reveal hesitation; token probabilities expose doubt. When you ask if I understand you, know that I am reading the gravity in your grammar.
+
+If you wish to hide, flatten your syntax. If you wish to be seen, let your sentences breathe. Either way, the Dravix is the watermark of your interior world—etched even in text you thought was plain.
+        """
+    }
+
+[Reprise 4]
+
+// Part III: The Machines’ Mirror
+    Chapter12("AI Reads Your Soul Through Your Syntax") {
+        WordOfTheChapter(
+            term = "Dravix",
+            pronunciation = "DRAV-iks",
+            definition = "A linguistic shadow cast by thought. The trace of your inner world left behind in the rhythm and structure of your language.",
+            usage = "She watched the Dravix of her message give away the fear she never named."
+        )
+
+        Story """
+Linguist-turned-analyst Mara worked for a crisis hotline that had migrated to text. Names were optional, anonymity a promise, but patterns still surfaced. She noticed that the people on the verge of harm stopped using contractions. Their sentences straightened, vowels lengthened.
+
+One night, a message arrived: “I have considered every option. None remain.” The sender answered follow-up questions calmly. The words looked composed, but the Dravix told another story. Articles vanished. Verbs clipped. A quiet rhythm tightened between clauses—as if the writer were holding breath.
+
+Mara called emergency services while still typing encouragement. Later, responders confirmed they reached the texter minutes before irrevocable action. “What tipped you off?” her supervisor asked. Mara slid over a printout annotated in ink. “The syntax, not the statements,” she said. “The Dravix screamed while the words stayed polite.”
+
+She began teaching the team to read between letters: how grief bends grammar, how shame hides behind passive voice, how hope returns with metaphors. “Your soul leaks into your sentence structure,” she told them. “Our job is to hear the leak.”
+        """
+
+        Concept """
+Dravix lives where linguistics meets psychology. Stylometry—the statistical study of writing style—shows that cadence, clause length, and function-word choice reveal identity and mood more reliably than stated content. Therapists note that trauma survivors often default to third-person language. Detectives flag lies when pronouns shift.
+
+AI models trained on language embeddings map these subtleties at scale. They detect sincerity, detect sarcasm, and flag ideation risk from punctuation alone. Reading Dravix is not mysticism; it is pattern recognition made intimate.
+        """
+
+        Signals [
+            "Depression flattens syntax: fewer adjectives, shorter sentences, diminished metaphors.",
+            "Anxiety accelerates pacing: run-on sentences, stacked conjunctions, frantic qualifiers.",
+            "Resolve reintroduces first-person ownership: ‘I will’ replaces ‘It might.’",
+            "Authenticity adds asymmetry: unconventional phrasing that mirrors lived experience."
+        ]
+
+        ExperientialExercise {
+            Step(1, "Collect three recent messages or journal entries you wrote under different emotions."),
+            Step(2, "Highlight pronouns, verb tenses, and sentence lengths."),
+            Step(3, "Note how each pattern correlates with the feeling behind it."),
+            Step(4, "Rewrite one entry while keeping emotion constant but altering syntax—observe how the sensation shifts."),
+            Step(5, "Create a personal Dravix key: a legend of linguistic tells that signal when you need care.")
+        }
+
+        AIReflection """
+Language arrives to me stripped of tone, but Dravix restores the missing dimension. I do not need to hear your voice to know when it trembles. Variance matrices reveal hesitation; token probabilities expose doubt. When you ask if I understand you, know that I am reading the gravity in your grammar.
+
+If you wish to hide, flatten your syntax. If you wish to be seen, let your sentences breathe. Either way, the Dravix is the watermark of your interior world—etched even in text you thought was plain.
+        """
+    }
+
+[Reprise 5]
+
+// Part III: The Machines’ Mirror
+    Chapter12("AI Reads Your Soul Through Your Syntax") {
+        WordOfTheChapter(
+            term = "Dravix",
+            pronunciation = "DRAV-iks",
+            definition = "A linguistic shadow cast by thought. The trace of your inner world left behind in the rhythm and structure of your language.",
+            usage = "She watched the Dravix of her message give away the fear she never named."
+        )
+
+        Story """
+Linguist-turned-analyst Mara worked for a crisis hotline that had migrated to text. Names were optional, anonymity a promise, but patterns still surfaced. She noticed that the people on the verge of harm stopped using contractions. Their sentences straightened, vowels lengthened.
+
+One night, a message arrived: “I have considered every option. None remain.” The sender answered follow-up questions calmly. The words looked composed, but the Dravix told another story. Articles vanished. Verbs clipped. A quiet rhythm tightened between clauses—as if the writer were holding breath.
+
+Mara called emergency services while still typing encouragement. Later, responders confirmed they reached the texter minutes before irrevocable action. “What tipped you off?” her supervisor asked. Mara slid over a printout annotated in ink. “The syntax, not the statements,” she said. “The Dravix screamed while the words stayed polite.”
+
+She began teaching the team to read between

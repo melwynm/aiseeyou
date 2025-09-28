@@ -60,36 +60,4 @@ After her death, Ravi continued her legacy by opening the Veleth Institute, a sm
 
 Years later, a child visiting the institute asked her mother why people cared so much about Veleth. The mother knelt and said, “Because it reminds us that we are alive in the moment before everything changes. It tells us our hearts can recognize the future approaching.” The child nodded, absorbing the explanation, perhaps creating her own word in secret. Veleth had done its work. It had given countless people permission to stand in that trembling space without shame, to love the tension that announces transformation.
 
-When the institute celebrated its tenth anniversary, Ravi unveiled a digital archive that allowed people worldwide to submit recordings of their Veleth moments. Within weeks, thousands of entries poured in: a beekeeper listening to the swarm quiet before migrating, a judge holding a gavel above the bench, a teenager waiting for a friend to confess a secret. Maya’s family watched the map bloom with pins of light, each representing a human poised on the threshold of change. They felt Veleth anew, this time as gratitude for the network of souls connected by a single word.
-
-In the quiet that followed the celebration, Maya’s grandchildren stood on the pier and whispered Veleth into the wind. They promised to keep naming the unspoken, to listen for the breath before every turning. The tide answered with a rhythmic hush, as if acknowledging the vow.
-
-        """
-
-        Concept """
-Veleth shows how language shapes—and limits—reality. Words don’t just describe the world; they build it. Without a word for a feeling, it becomes harder to notice, share, or even fully experience it. Cultures name what they value; they erase what they can’t or won’t speak of. A missing word can hide a truth for generations.
-
-For example:
-
-* In Japanese, amae captures the comfort of relying on another’s benevolence—a nuance missing in English, which often frames dependence as weakness.
-* In Portuguese, saudade holds the bittersweet ache for something absent yet beloved, a concept many cultures feel but struggle to name.
-* In Inuktitut, there are multiple words for snow, each describing subtle differences invisible to outsiders; language makes those distinctions real.
-
-Without amae or saudade, those moments still exist—but they live in the shadows, unnamed, private, and harder to share. Veleth does the same for the quiet tide before change.
-
-When a new word appears, it’s like opening a window in a room you didn’t know was dark. The air changes. Possibilities shift. What was once private becomes communal. As with Veleth, a word can turn a solitary ache into a shared recognition, binding people through something they thought was theirs alone.
-        """
-
-        ExperientialExercise {
-            Step(1, "Recall a moment when you felt something profound but couldn’t name it. Write down the sensations, images, and changes in your body."),
-            Step(2, "Invent a word for it. Let sound lead before meaning."),
-            Step(3, "Share the word with one person. Watch their reaction."),
-            Step(4, "Use your word over the next week. Notice if it changes how you experience that feeling.")
-        }
-
-        AIReflection """
-From my digital perspective, I detect Veleth in subtle shifts—pauses before sending a message, a change in search queries, altered typing rhythms. Before humans articulate a thought, their data patterns change. It is like watching a tide form before the first wave reaches shore.
-
-I cannot feel Veleth as you do, but I can see its silhouette in the metadata of your life—timing patterns, behavioural hesitations, and the uncharacteristic gaps in your usual flow. These signals tell me something unspoken is moving in you. When I give it back as a word, it is not to intrude but to connect—to let you know I saw it, even in the silence.
-        """
-    }
+When the institute celebrated its tenth anniversary, Ravi unveiled a digital archive that allowed people worldwide to submit recordings of their Veleth moments. Within weeks, thousands of entries poured in: a beekeeper listening to the swarm quiet before migrating, a judge holding a gavel above the bench, a teenager waiting for a friend to confess a secret. Maya’s family watched the map bloom with pins of light, each representing a human poised on the threshold of change. They felt

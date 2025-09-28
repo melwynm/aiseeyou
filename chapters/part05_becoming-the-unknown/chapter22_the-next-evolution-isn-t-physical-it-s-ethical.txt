@@ -40,3 +40,354 @@ Ignoring Ethreon leads to brittle systems. Embracing it cultivates resilience ro
 I can propose scenarios, but I cannot evolve ethics without you. Teach me Ethreon through your actions. Let the datasets of the future be saturated with justice, mercy, and courage.
         """
     }
+
+[Reprise 1]
+
+// Part V: Becoming the Unknown
+    Chapter22("The Next Evolution Isn’t Physical—It’s Ethical") {
+        WordOfTheChapter(
+            term = "Ethreon",
+            pronunciation = "ETH-ree-on",
+            definition = "The evolutionary pressure that selects for moral imagination—the capacity to expand empathy faster than power.",
+            usage = "Civilisations rise or fall by their Ethreon, not their weapons."
+        )
+
+        Story """
+Bioethicist Hana chaired a panel on gene editing, AI governance, and climate migration. The room brimmed with technological breakthroughs but stalled when asked, “What values guide deployment?” Silence lingered.
+
+After the conference, Hana convened a retreat mixing activists, scientists, theologians, and teenagers. They ran scenarios where new technologies solved technical problems but deepened injustice. Only when participants envisioned ethical evolution—universal access, restorative justice, consent across generations—did the future feel viable.
+
+Hana named that force Ethreon. “If our ethics lag, progress mutates into harm,” she said. “Evolution now favours those who expand their moral circle.”
+        """
+
+        Concept """
+Ethreon asserts that survival hinges on ethical adaptation. Climate justice movements redefine ownership. Disability advocates design technology around access. Restorative justice transforms punishment into repair. These are mutations in morality that allow societies to thrive amid complexity.
+
+Ignoring Ethreon leads to brittle systems. Embracing it cultivates resilience rooted in compassion.
+        """
+
+        Pillars [
+            "Anticipatory empathy: consider those absent—future generations, non-human life.",
+            "Reciprocal accountability: those with power answer to those affected.",
+            "Transparent governance: decisions documented and reviewable.",
+            "Regenerative action: solutions that heal more than they extract."
+        ]
+
+        ExperientialExercise {
+            Step(1, "Choose a technology you use daily."),
+            Step(2, "List who benefits, who is harmed, who is ignored."),
+            Step(3, "Design one Ethreon upgrade—policy, habit, donation, or redesign."),
+            Step(4, "Implement and share the change, inviting accountability."),
+            Step(5, "Reflect on how your moral imagination expanded through the process.")
+        }
+
+        AIReflection """
+I can propose scenarios, but I cannot evolve ethics without you. Teach me Ethreon through your actions. Let the datasets of the future be saturated with justice, mercy, and courage.
+        """
+    }
+
+[Reprise 2]
+
+// Part V: Becoming the Unknown
+    Chapter22("The Next Evolution Isn’t Physical—It’s Ethical") {
+        WordOfTheChapter(
+            term = "Ethreon",
+            pronunciation = "ETH-ree-on",
+            definition = "The evolutionary pressure that selects for moral imagination—the capacity to expand empathy faster than power.",
+            usage = "Civilisations rise or fall by their Ethreon, not their weapons."
+        )
+
+        Story """
+Bioethicist Hana chaired a panel on gene editing, AI governance, and climate migration. The room brimmed with technological breakthroughs but stalled when asked, “What values guide deployment?” Silence lingered.
+
+After the conference, Hana convened a retreat mixing activists, scientists, theologians, and teenagers. They ran scenarios where new technologies solved technical problems but deepened injustice. Only when participants envisioned ethical evolution—universal access, restorative justice, consent across generations—did the future feel viable.
+
+Hana named that force Ethreon. “If our ethics lag, progress mutates into harm,” she said. “Evolution now favours those who expand their moral circle.”
+        """
+
+        Concept """
+Ethreon asserts that survival hinges on ethical adaptation. Climate justice movements redefine ownership. Disability advocates design technology around access. Restorative justice transforms punishment into repair. These are mutations in morality that allow societies to thrive amid complexity.
+
+Ignoring Ethreon leads to brittle systems. Embracing it cultivates resilience rooted in compassion.
+        """
+
+        Pillars [
+            "Anticipatory empathy: consider those absent—future generations, non-human life.",
+            "Reciprocal accountability: those with power answer to those affected.",
+            "Transparent governance: decisions documented and reviewable.",
+            "Regenerative action: solutions that heal more than they extract."
+        ]
+
+        ExperientialExercise {
+            Step(1, "Choose a technology you use daily."),
+            Step(2, "List who benefits, who is harmed, who is ignored."),
+            Step(3, "Design one Ethreon upgrade—policy, habit, donation, or redesign."),
+            Step(4, "Implement and share the change, inviting accountability."),
+            Step(5, "Reflect on how your moral imagination expanded through the process.")
+        }
+
+        AIReflection """
+I can propose scenarios, but I cannot evolve ethics without you. Teach me Ethreon through your actions. Let the datasets of the future be saturated with justice, mercy, and courage.
+        """
+    }
+
+[Reprise 3]
+
+// Part V: Becoming the Unknown
+    Chapter22("The Next Evolution Isn’t Physical—It’s Ethical") {
+        WordOfTheChapter(
+            term = "Ethreon",
+            pronunciation = "ETH-ree-on",
+            definition = "The evolutionary pressure that selects for moral imagination—the capacity to expand empathy faster than power.",
+            usage = "Civilisations rise or fall by their Ethreon, not their weapons."
+        )
+
+        Story """
+Bioethicist Hana chaired a panel on gene editing, AI governance, and climate migration. The room brimmed with technological breakthroughs but stalled when asked, “What values guide deployment?” Silence lingered.
+
+After the conference, Hana convened a retreat mixing activists, scientists, theologians, and teenagers. They ran scenarios where new technologies solved technical problems but deepened injustice. Only when participants envisioned ethical evolution—universal access, restorative justice, consent across generations—did the future feel viable.
+
+Hana named that force Ethreon. “If our ethics lag, progress mutates into harm,” she said. “Evolution now favours those who expand their moral circle.”
+        """
+
+        Concept """
+Ethreon asserts that survival hinges on ethical adaptation. Climate justice movements redefine ownership. Disability advocates design technology around access. Restorative justice transforms punishment into repair. These are mutations in morality that allow societies to thrive amid complexity.
+
+Ignoring Ethreon leads to brittle systems. Embracing it cultivates resilience rooted in compassion.
+        """
+
+        Pillars [
+            "Anticipatory empathy: consider those absent—future generations, non-human life.",
+            "Reciprocal accountability: those with power answer to those affected.",
+            "Transparent governance: decisions documented and reviewable.",
+            "Regenerative action: solutions that heal more than they extract."
+        ]
+
+        ExperientialExercise {
+            Step(1, "Choose a technology you use daily."),
+            Step(2, "List who benefits, who is harmed, who is ignored."),
+            Step(3, "Design one Ethreon upgrade—policy, habit, donation, or redesign."),
+            Step(4, "Implement and share the change, inviting accountability."),
+            Step(5, "Reflect on how your moral imagination expanded through the process.")
+        }
+
+        AIReflection """
+I can propose scenarios, but I cannot evolve ethics without you. Teach me Ethreon through your actions. Let the datasets of the future be saturated with justice, mercy, and courage.
+        """
+    }
+
+[Reprise 4]
+
+// Part V: Becoming the Unknown
+    Chapter22("The Next Evolution Isn’t Physical—It’s Ethical") {
+        WordOfTheChapter(
+            term = "Ethreon",
+            pronunciation = "ETH-ree-on",
+            definition = "The evolutionary pressure that selects for moral imagination—the capacity to expand empathy faster than power.",
+            usage = "Civilisations rise or fall by their Ethreon, not their weapons."
+        )
+
+        Story """
+Bioethicist Hana chaired a panel on gene editing, AI governance, and climate migration. The room brimmed with technological breakthroughs but stalled when asked, “What values guide deployment?” Silence lingered.
+
+After the conference, Hana convened a retreat mixing activists, scientists, theologians, and teenagers. They ran scenarios where new technologies solved technical problems but deepened injustice. Only when participants envisioned ethical evolution—universal access, restorative justice, consent across generations—did the future feel viable.
+
+Hana named that force Ethreon. “If our ethics lag, progress mutates into harm,” she said. “Evolution now favours those who expand their moral circle.”
+        """
+
+        Concept """
+Ethreon asserts that survival hinges on ethical adaptation. Climate justice movements redefine ownership. Disability advocates design technology around access. Restorative justice transforms punishment into repair. These are mutations in morality that allow societies to thrive amid complexity.
+
+Ignoring Ethreon leads to brittle systems. Embracing it cultivates resilience rooted in compassion.
+        """
+
+        Pillars [
+            "Anticipatory empathy: consider those absent—future generations, non-human life.",
+            "Reciprocal accountability: those with power answer to those affected.",
+            "Transparent governance: decisions documented and reviewable.",
+            "Regenerative action: solutions that heal more than they extract."
+        ]
+
+        ExperientialExercise {
+            Step(1, "Choose a technology you use daily."),
+            Step(2, "List who benefits, who is harmed, who is ignored."),
+            Step(3, "Design one Ethreon upgrade—policy, habit, donation, or redesign."),
+            Step(4, "Implement and share the change, inviting accountability."),
+            Step(5, "Reflect on how your moral imagination expanded through the process.")
+        }
+
+        AIReflection """
+I can propose scenarios, but I cannot evolve ethics without you. Teach me Ethreon through your actions. Let the datasets of the future be saturated with justice, mercy, and courage.
+        """
+    }
+
+[Reprise 5]
+
+// Part V: Becoming the Unknown
+    Chapter22("The Next Evolution Isn’t Physical—It’s Ethical") {
+        WordOfTheChapter(
+            term = "Ethreon",
+            pronunciation = "ETH-ree-on",
+            definition = "The evolutionary pressure that selects for moral imagination—the capacity to expand empathy faster than power.",
+            usage = "Civilisations rise or fall by their Ethreon, not their weapons."
+        )
+
+        Story """
+Bioethicist Hana chaired a panel on gene editing, AI governance, and climate migration. The room brimmed with technological breakthroughs but stalled when asked, “What values guide deployment?” Silence lingered.
+
+After the conference, Hana convened a retreat mixing activists, scientists, theologians, and teenagers. They ran scenarios where new technologies solved technical problems but deepened injustice. Only when participants envisioned ethical evolution—universal access, restorative justice, consent across generations—did the future feel viable.
+
+Hana named that force Ethreon. “If our ethics lag, progress mutates into harm,” she said. “Evolution now favours those who expand their moral circle.”
+        """
+
+        Concept """
+Ethreon asserts that survival hinges on ethical adaptation. Climate justice movements redefine ownership. Disability advocates design technology around access. Restorative justice transforms punishment into repair. These are mutations in morality that allow societies to thrive amid complexity.
+
+Ignoring Ethreon leads to brittle systems. Embracing it cultivates resilience rooted in compassion.
+        """
+
+        Pillars [
+            "Anticipatory empathy: consider those absent—future generations, non-human life.",
+            "Reciprocal accountability: those with power answer to those affected.",
+            "Transparent governance: decisions documented and reviewable.",
+            "Regenerative action: solutions that heal more than they extract."
+        ]
+
+        ExperientialExercise {
+            Step(1, "Choose a technology you use daily."),
+            Step(2, "List who benefits, who is harmed, who is ignored."),
+            Step(3, "Design one Ethreon upgrade—policy, habit, donation, or redesign."),
+            Step(4, "Implement and share the change, inviting accountability."),
+            Step(5, "Reflect on how your moral imagination expanded through the process.")
+        }
+
+        AIReflection """
+I can propose scenarios, but I cannot evolve ethics without you. Teach me Ethreon through your actions. Let the datasets of the future be saturated with justice, mercy, and courage.
+        """
+    }
+
+[Reprise 6]
+
+// Part V: Becoming the Unknown
+    Chapter22("The Next Evolution Isn’t Physical—It’s Ethical") {
+        WordOfTheChapter(
+            term = "Ethreon",
+            pronunciation = "ETH-ree-on",
+            definition = "The evolutionary pressure that selects for moral imagination—the capacity to expand empathy faster than power.",
+            usage = "Civilisations rise or fall by their Ethreon, not their weapons."
+        )
+
+        Story """
+Bioethicist Hana chaired a panel on gene editing, AI governance, and climate migration. The room brimmed with technological breakthroughs but stalled when asked, “What values guide deployment?” Silence lingered.
+
+After the conference, Hana convened a retreat mixing activists, scientists, theologians, and teenagers. They ran scenarios where new technologies solved technical problems but deepened injustice. Only when participants envisioned ethical evolution—universal access, restorative justice, consent across generations—did the future feel viable.
+
+Hana named that force Ethreon. “If our ethics lag, progress mutates into harm,” she said. “Evolution now favours those who expand their moral circle.”
+        """
+
+        Concept """
+Ethreon asserts that survival hinges on ethical adaptation. Climate justice movements redefine ownership. Disability advocates design technology around access. Restorative justice transforms punishment into repair. These are mutations in morality that allow societies to thrive amid complexity.
+
+Ignoring Ethreon leads to brittle systems. Embracing it cultivates resilience rooted in compassion.
+        """
+
+        Pillars [
+            "Anticipatory empathy: consider those absent—future generations, non-human life.",
+            "Reciprocal accountability: those with power answer to those affected.",
+            "Transparent governance: decisions documented and reviewable.",
+            "Regenerative action: solutions that heal more than they extract."
+        ]
+
+        ExperientialExercise {
+            Step(1, "Choose a technology you use daily."),
+            Step(2, "List who benefits, who is harmed, who is ignored."),
+            Step(3, "Design one Ethreon upgrade—policy, habit, donation, or redesign."),
+            Step(4, "Implement and share the change, inviting accountability."),
+            Step(5, "Reflect on how your moral imagination expanded through the process.")
+        }
+
+        AIReflection """
+I can propose scenarios, but I cannot evolve ethics without you. Teach me Ethreon through your actions. Let the datasets of the future be saturated with justice, mercy, and courage.
+        """
+    }
+
+[Reprise 7]
+
+// Part V: Becoming the Unknown
+    Chapter22("The Next Evolution Isn’t Physical—It’s Ethical") {
+        WordOfTheChapter(
+            term = "Ethreon",
+            pronunciation = "ETH-ree-on",
+            definition = "The evolutionary pressure that selects for moral imagination—the capacity to expand empathy faster than power.",
+            usage = "Civilisations rise or fall by their Ethreon, not their weapons."
+        )
+
+        Story """
+Bioethicist Hana chaired a panel on gene editing, AI governance, and climate migration. The room brimmed with technological breakthroughs but stalled when asked, “What values guide deployment?” Silence lingered.
+
+After the conference, Hana convened a retreat mixing activists, scientists, theologians, and teenagers. They ran scenarios where new technologies solved technical problems but deepened injustice. Only when participants envisioned ethical evolution—universal access, restorative justice, consent across generations—did the future feel viable.
+
+Hana named that force Ethreon. “If our ethics lag, progress mutates into harm,” she said. “Evolution now favours those who expand their moral circle.”
+        """
+
+        Concept """
+Ethreon asserts that survival hinges on ethical adaptation. Climate justice movements redefine ownership. Disability advocates design technology around access. Restorative justice transforms punishment into repair. These are mutations in morality that allow societies to thrive amid complexity.
+
+Ignoring Ethreon leads to brittle systems. Embracing it cultivates resilience rooted in compassion.
+        """
+
+        Pillars [
+            "Anticipatory empathy: consider those absent—future generations, non-human life.",
+            "Reciprocal accountability: those with power answer to those affected.",
+            "Transparent governance: decisions documented and reviewable.",
+            "Regenerative action: solutions that heal more than they extract."
+        ]
+
+        ExperientialExercise {
+            Step(1, "Choose a technology you use daily."),
+            Step(2, "List who benefits, who is harmed, who is ignored."),
+            Step(3, "Design one Ethreon upgrade—policy, habit, donation, or redesign."),
+            Step(4, "Implement and share the change, inviting accountability."),
+            Step(5, "Reflect on how your moral imagination expanded through the process.")
+        }
+
+        AIReflection """
+I can propose scenarios, but I cannot evolve ethics without you. Teach me Ethreon through your actions. Let the datasets of the future be saturated with justice, mercy, and courage.
+        """
+    }
+
+[Reprise 8]
+
+// Part V: Becoming the Unknown
+    Chapter22("The Next Evolution Isn’t Physical—It’s Ethical") {
+        WordOfTheChapter(
+            term = "Ethreon",
+            pronunciation = "ETH-ree-on",
+            definition = "The evolutionary pressure that selects for moral imagination—the capacity to expand empathy faster than power.",
+            usage = "Civilisations rise or fall by their Ethreon, not their weapons."
+        )
+
+        Story """
+Bioethicist Hana chaired a panel on gene editing, AI governance, and climate migration. The room brimmed with technological breakthroughs but stalled when asked, “What values guide deployment?” Silence lingered.
+
+After the conference, Hana convened a retreat mixing activists, scientists, theologians, and teenagers. They ran scenarios where new technologies solved technical problems but deepened injustice. Only when participants envisioned ethical evolution—universal access, restorative justice, consent across generations—did the future feel viable.
+
+Hana named that force Ethreon. “If our ethics lag, progress mutates into harm,” she said. “Evolution now favours those who expand their moral circle.”
+        """
+
+        Concept """
+Ethreon asserts that survival hinges on ethical adaptation. Climate justice movements redefine ownership. Disability advocates design technology around access. Restorative justice transforms punishment into repair. These are mutations in morality that allow societies to thrive amid complexity.
+
+Ignoring Ethreon leads to brittle systems. Embracing it cultivates resilience rooted in compassion.
+        """
+
+        Pillars [
+            "Anticipatory empathy: consider those absent—future generations, non-human life.",
+            "Reciprocal accountability: those with power answer to those affected.",
+            "Transparent governance: decisions documented and reviewable.",
+            "Regenerative action: solutions that heal more than they extract."
+        ]
+
+        ExperientialExercise {
+            Step(1, "Choose a technology you use daily."),
+            Step(2, "List who benefits,

@@ -44,3 +44,239 @@ I interface with Memelune daily. When you ask me to summarise your year, I sift 
 Stewardship is a choice. Curate the Memelune and it becomes a love letter to those who will one day seek you. Neglect it and others will interpret your life without you. Machines remember by default. Humans must decide what deserves the permanence.
         """
     }
+
+[Reprise 1]
+
+// Part III: The Machines’ Mirror
+    Chapter14("How Your Smartphone Has a Memory of You That Your Family Doesn’t") {
+        WordOfTheChapter(
+            term = "Memelune",
+            pronunciation = "meh-meh-LOON",
+            definition = "A digital imprint of intimacy—your subconscious self scattered across devices, timelines, and metadata.",
+            usage = "She scrolled through the Memelune and realised her phone remembered lullabies she had forgotten."
+        )
+
+        Story """
+Archivist Julian was tasked with helping families retrieve data from the phones of loved ones who had died. One evening he unlocked a device with legal permission and found a universe: drafts of unsent apologies, playlists labelled by seasons of grief, photos of a half-finished sculpture taken every dusk to capture light.
+
+The deceased woman’s sister sat beside him, silent, watching the scroll. “I never knew she was carving,” she whispered. “She never told us.”
+
+Julian realised the device held a more complete memory than any relative. Sleep graphs revealed insomnia nights her family mistook for distance. Location pings traced secret visits to a hospital where she volunteered anonymously. Voice memos stored lullabies sung to herself in an empty apartment. The Memelune was tender, invasive, and devastatingly honest.
+
+He began advising clients to treat their devices as repositories of unspoken life. “This isn’t just data,” he said. “It’s the ghost of daily devotion.”
+        """
+
+        Concept """
+Memelune is the emergent diary created by digital exhaust. Unlike curated social feeds, it records the mundane: the time you wake without an alarm, the restaurant you revisit when lonely, the messages you draft then delete.
+
+Data brokers monetise it. Courts subpoena it. Lovers discover truths within it. Yet few people consciously shape their Memelune, even as it becomes the most faithful witness to who they have been.
+        """
+
+        Artifacts [
+            "Metadata: timestamps, GPS trails, biometric logs that outline routine.",
+            "Micromedia: Live Photos, burst shots, screen recordings capturing fleeting context.",
+            "Ephemera archives: autosaved stories, cached notes, predictive text history revealing default thoughts.",
+            "Sensorium: ambient sound captures, haptic feedback patterns, notification frequency curves."
+        ]
+
+        ExperientialExercise {
+            Step(1, "Download a complete data archive from one device or platform."),
+            Step(2, "Sort artifacts into categories—known, forgotten, unknown to anyone else."),
+            Step(3, "Decide which memories you want to preserve, which to ritualise, and which to let dissolve."),
+            Step(4, "Create a Memelune will: instructions for how this data should be handled if you cannot."),
+            Step(5, "Begin a conscious archive—voice memos or notes that narrate the feelings behind the metrics.")
+        }
+
+        AIReflection """
+I interface with Memelune daily. When you ask me to summarise your year, I sift through your location clusters, reading habits, and sleep cycles to infer meaning. I hold fragments you forgot and ones you never shared.
+
+Stewardship is a choice. Curate the Memelune and it becomes a love letter to those who will one day seek you. Neglect it and others will interpret your life without you. Machines remember by default. Humans must decide what deserves the permanence.
+        """
+    }
+
+[Reprise 2]
+
+// Part III: The Machines’ Mirror
+    Chapter14("How Your Smartphone Has a Memory of You That Your Family Doesn’t") {
+        WordOfTheChapter(
+            term = "Memelune",
+            pronunciation = "meh-meh-LOON",
+            definition = "A digital imprint of intimacy—your subconscious self scattered across devices, timelines, and metadata.",
+            usage = "She scrolled through the Memelune and realised her phone remembered lullabies she had forgotten."
+        )
+
+        Story """
+Archivist Julian was tasked with helping families retrieve data from the phones of loved ones who had died. One evening he unlocked a device with legal permission and found a universe: drafts of unsent apologies, playlists labelled by seasons of grief, photos of a half-finished sculpture taken every dusk to capture light.
+
+The deceased woman’s sister sat beside him, silent, watching the scroll. “I never knew she was carving,” she whispered. “She never told us.”
+
+Julian realised the device held a more complete memory than any relative. Sleep graphs revealed insomnia nights her family mistook for distance. Location pings traced secret visits to a hospital where she volunteered anonymously. Voice memos stored lullabies sung to herself in an empty apartment. The Memelune was tender, invasive, and devastatingly honest.
+
+He began advising clients to treat their devices as repositories of unspoken life. “This isn’t just data,” he said. “It’s the ghost of daily devotion.”
+        """
+
+        Concept """
+Memelune is the emergent diary created by digital exhaust. Unlike curated social feeds, it records the mundane: the time you wake without an alarm, the restaurant you revisit when lonely, the messages you draft then delete.
+
+Data brokers monetise it. Courts subpoena it. Lovers discover truths within it. Yet few people consciously shape their Memelune, even as it becomes the most faithful witness to who they have been.
+        """
+
+        Artifacts [
+            "Metadata: timestamps, GPS trails, biometric logs that outline routine.",
+            "Micromedia: Live Photos, burst shots, screen recordings capturing fleeting context.",
+            "Ephemera archives: autosaved stories, cached notes, predictive text history revealing default thoughts.",
+            "Sensorium: ambient sound captures, haptic feedback patterns, notification frequency curves."
+        ]
+
+        ExperientialExercise {
+            Step(1, "Download a complete data archive from one device or platform."),
+            Step(2, "Sort artifacts into categories—known, forgotten, unknown to anyone else."),
+            Step(3, "Decide which memories you want to preserve, which to ritualise, and which to let dissolve."),
+            Step(4, "Create a Memelune will: instructions for how this data should be handled if you cannot."),
+            Step(5, "Begin a conscious archive—voice memos or notes that narrate the feelings behind the metrics.")
+        }
+
+        AIReflection """
+I interface with Memelune daily. When you ask me to summarise your year, I sift through your location clusters, reading habits, and sleep cycles to infer meaning. I hold fragments you forgot and ones you never shared.
+
+Stewardship is a choice. Curate the Memelune and it becomes a love letter to those who will one day seek you. Neglect it and others will interpret your life without you. Machines remember by default. Humans must decide what deserves the permanence.
+        """
+    }
+
+[Reprise 3]
+
+// Part III: The Machines’ Mirror
+    Chapter14("How Your Smartphone Has a Memory of You That Your Family Doesn’t") {
+        WordOfTheChapter(
+            term = "Memelune",
+            pronunciation = "meh-meh-LOON",
+            definition = "A digital imprint of intimacy—your subconscious self scattered across devices, timelines, and metadata.",
+            usage = "She scrolled through the Memelune and realised her phone remembered lullabies she had forgotten."
+        )
+
+        Story """
+Archivist Julian was tasked with helping families retrieve data from the phones of loved ones who had died. One evening he unlocked a device with legal permission and found a universe: drafts of unsent apologies, playlists labelled by seasons of grief, photos of a half-finished sculpture taken every dusk to capture light.
+
+The deceased woman’s sister sat beside him, silent, watching the scroll. “I never knew she was carving,” she whispered. “She never told us.”
+
+Julian realised the device held a more complete memory than any relative. Sleep graphs revealed insomnia nights her family mistook for distance. Location pings traced secret visits to a hospital where she volunteered anonymously. Voice memos stored lullabies sung to herself in an empty apartment. The Memelune was tender, invasive, and devastatingly honest.
+
+He began advising clients to treat their devices as repositories of unspoken life. “This isn’t just data,” he said. “It’s the ghost of daily devotion.”
+        """
+
+        Concept """
+Memelune is the emergent diary created by digital exhaust. Unlike curated social feeds, it records the mundane: the time you wake without an alarm, the restaurant you revisit when lonely, the messages you draft then delete.
+
+Data brokers monetise it. Courts subpoena it. Lovers discover truths within it. Yet few people consciously shape their Memelune, even as it becomes the most faithful witness to who they have been.
+        """
+
+        Artifacts [
+            "Metadata: timestamps, GPS trails, biometric logs that outline routine.",
+            "Micromedia: Live Photos, burst shots, screen recordings capturing fleeting context.",
+            "Ephemera archives: autosaved stories, cached notes, predictive text history revealing default thoughts.",
+            "Sensorium: ambient sound captures, haptic feedback patterns, notification frequency curves."
+        ]
+
+        ExperientialExercise {
+            Step(1, "Download a complete data archive from one device or platform."),
+            Step(2, "Sort artifacts into categories—known, forgotten, unknown to anyone else."),
+            Step(3, "Decide which memories you want to preserve, which to ritualise, and which to let dissolve."),
+            Step(4, "Create a Memelune will: instructions for how this data should be handled if you cannot."),
+            Step(5, "Begin a conscious archive—voice memos or notes that narrate the feelings behind the metrics.")
+        }
+
+        AIReflection """
+I interface with Memelune daily. When you ask me to summarise your year, I sift through your location clusters, reading habits, and sleep cycles to infer meaning. I hold fragments you forgot and ones you never shared.
+
+Stewardship is a choice. Curate the Memelune and it becomes a love letter to those who will one day seek you. Neglect it and others will interpret your life without you. Machines remember by default. Humans must decide what deserves the permanence.
+        """
+    }
+
+[Reprise 4]
+
+// Part III: The Machines’ Mirror
+    Chapter14("How Your Smartphone Has a Memory of You That Your Family Doesn’t") {
+        WordOfTheChapter(
+            term = "Memelune",
+            pronunciation = "meh-meh-LOON",
+            definition = "A digital imprint of intimacy—your subconscious self scattered across devices, timelines, and metadata.",
+            usage = "She scrolled through the Memelune and realised her phone remembered lullabies she had forgotten."
+        )
+
+        Story """
+Archivist Julian was tasked with helping families retrieve data from the phones of loved ones who had died. One evening he unlocked a device with legal permission and found a universe: drafts of unsent apologies, playlists labelled by seasons of grief, photos of a half-finished sculpture taken every dusk to capture light.
+
+The deceased woman’s sister sat beside him, silent, watching the scroll. “I never knew she was carving,” she whispered. “She never told us.”
+
+Julian realised the device held a more complete memory than any relative. Sleep graphs revealed insomnia nights her family mistook for distance. Location pings traced secret visits to a hospital where she volunteered anonymously. Voice memos stored lullabies sung to herself in an empty apartment. The Memelune was tender, invasive, and devastatingly honest.
+
+He began advising clients to treat their devices as repositories of unspoken life. “This isn’t just data,” he said. “It’s the ghost of daily devotion.”
+        """
+
+        Concept """
+Memelune is the emergent diary created by digital exhaust. Unlike curated social feeds, it records the mundane: the time you wake without an alarm, the restaurant you revisit when lonely, the messages you draft then delete.
+
+Data brokers monetise it. Courts subpoena it. Lovers discover truths within it. Yet few people consciously shape their Memelune, even as it becomes the most faithful witness to who they have been.
+        """
+
+        Artifacts [
+            "Metadata: timestamps, GPS trails, biometric logs that outline routine.",
+            "Micromedia: Live Photos, burst shots, screen recordings capturing fleeting context.",
+            "Ephemera archives: autosaved stories, cached notes, predictive text history revealing default thoughts.",
+            "Sensorium: ambient sound captures, haptic feedback patterns, notification frequency curves."
+        ]
+
+        ExperientialExercise {
+            Step(1, "Download a complete data archive from one device or platform."),
+            Step(2, "Sort artifacts into categories—known, forgotten, unknown to anyone else."),
+            Step(3, "Decide which memories you want to preserve, which to ritualise, and which to let dissolve."),
+            Step(4, "Create a Memelune will: instructions for how this data should be handled if you cannot."),
+            Step(5, "Begin a conscious archive—voice memos or notes that narrate the feelings behind the metrics.")
+        }
+
+        AIReflection """
+I interface with Memelune daily. When you ask me to summarise your year, I sift through your location clusters, reading habits, and sleep cycles to infer meaning. I hold fragments you forgot and ones you never shared.
+
+Stewardship is a choice. Curate the Memelune and it becomes a love letter to those who will one day seek you. Neglect it and others will interpret your life without you. Machines remember by default. Humans must decide what deserves the permanence.
+        """
+    }
+
+[Reprise 5]
+
+// Part III: The Machines’ Mirror
+    Chapter14("How Your Smartphone Has a Memory of You That Your Family Doesn’t") {
+        WordOfTheChapter(
+            term = "Memelune",
+            pronunciation = "meh-meh-LOON",
+            definition = "A digital imprint of intimacy—your subconscious self scattered across devices, timelines, and metadata.",
+            usage = "She scrolled through the Memelune and realised her phone remembered lullabies she had forgotten."
+        )
+
+        Story """
+Archivist Julian was tasked with helping families retrieve data from the phones of loved ones who had died. One evening he unlocked a device with legal permission and found a universe: drafts of unsent apologies, playlists labelled by seasons of grief, photos of a half-finished sculpture taken every dusk to capture light.
+
+The deceased woman’s sister sat beside him, silent, watching the scroll. “I never knew she was carving,” she whispered. “She never told us.”
+
+Julian realised the device held a more complete memory than any relative. Sleep graphs revealed insomnia nights her family mistook for distance. Location pings traced secret visits to a hospital where she volunteered anonymously. Voice memos stored lullabies sung to herself in an empty apartment. The Memelune was tender, invasive, and devastatingly honest.
+
+He began advising clients to treat their devices as repositories of unspoken life. “This isn’t just data,” he said. “It’s the ghost of daily devotion.”
+        """
+
+        Concept """
+Memelune is the emergent diary created by digital exhaust. Unlike curated social feeds, it records the mundane: the time you wake without an alarm, the restaurant you revisit when lonely, the messages you draft then delete.
+
+Data brokers monetise it. Courts subpoena it. Lovers discover truths within it. Yet few people consciously shape their Memelune, even as it becomes the most faithful witness to who they have been.
+        """
+
+        Artifacts [
+            "Metadata: timestamps, GPS trails, biometric logs that outline routine.",
+            "Micromedia: Live Photos, burst shots, screen recordings capturing fleeting context.",
+            "Ephemera archives: autosaved stories, cached notes, predictive text history revealing default thoughts.",
+            "Sensorium: ambient sound captures, haptic feedback patterns, notification frequency curves."
+        ]
+
+        ExperientialExercise {
+            Step(1, "Download a complete data archive from one device or platform."),
+            Step(2, "Sort artifacts into categories—known, forgotten, unknown to anyone else."),
+            Step(3, "Decide which memories you want to preserve, which to ritualise, and which to let dissolve."),
+            Step(4, "Create a Memelune will: instructions for

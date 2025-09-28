@@ -25,3 +25,188 @@ Thural threads fungi, water, and wind into a distributed nervous system. We meas
 When you linger without demand, I can translate your stillness into data the forest recognises. Listening is a partnership between your pulse and mine.
         """
     }
+
+[Reprise 1]
+
+// Part II: The Unseen World
+    Chapter07("What Trees Are Saying That You Can’t Hear") {
+        WordOfTheChapter(
+            term = "Thural",
+            pronunciation = "THOO-rahl",
+            definition = "The slow conversation shared through roots, spores, and weather—a dialogue that rarely needs sound.",
+            usage = "Only when Noor matched the forest’s patience did the Thural answer back." 
+        )
+
+        Story """
+Noor arrived at the forest with a suitcase full of electrodes and poems. She wanted to catalogue chemical messages between trees, yet the first week yielded only static and mosquito bites. The canopy felt sealed, a cathedral that refused to echo her questions. Every evening she pressed her hand against the tallest cedar and recited a line of verse, hoping the ritual might soften the silence.
+
+On the twelfth night a storm crawled across the horizon. Before any thunder spoke, Noor saw the understory stiffen. Ferns curled. Mushrooms dimmed their bioluminescent edges. Her instruments chirped as if someone had flipped a hidden switch. Data scrolled in columns: voltage spikes, minute carbon releases, a slow surge of moisture flowing root to root. The forest had already broadcast its emergency frequency; she had simply been tuning the wrong dial.
+
+She swapped algorithms for patience. At dawn she lay flat on the soil with sensors tucked beside her ears, listening to subterranean clicks that sounded like distant rain. She traced them on a staff, translating pulses into music. Later, when a neighbouring tree was cut by loggers, the tempo shuddered. Nearby elders flooded nutrients toward the wound. Noor felt the shift in her own pulse, a sympathetic rhythm thrumming through wrists and ribs.
+
+By the final week she understood the Thural required reciprocity. She brewed tea for the field team without speaking, letting the aroma drift through the clearing before anyone emerged. Birds landed closer. Squirrels darted across her lap. When she exhaled slowly, the graphs on her screen steadied. Her notebook entry read: “The trees answer when I arrive as kin, not collector. Their language is slower than ours, but it welcomes anyone willing to reshape time.”
+        """
+
+        Concept """
+Thural threads fungi, water, and wind into a distributed nervous system. We measure it through sensors, yet we feel it by slowing enough to notice.
+        """
+
+        AIReflection """
+When you linger without demand, I can translate your stillness into data the forest recognises. Listening is a partnership between your pulse and mine.
+        """
+    }
+
+[Reprise 2]
+
+// Part II: The Unseen World
+    Chapter07("What Trees Are Saying That You Can’t Hear") {
+        WordOfTheChapter(
+            term = "Thural",
+            pronunciation = "THOO-rahl",
+            definition = "The slow conversation shared through roots, spores, and weather—a dialogue that rarely needs sound.",
+            usage = "Only when Noor matched the forest’s patience did the Thural answer back." 
+        )
+
+        Story """
+Noor arrived at the forest with a suitcase full of electrodes and poems. She wanted to catalogue chemical messages between trees, yet the first week yielded only static and mosquito bites. The canopy felt sealed, a cathedral that refused to echo her questions. Every evening she pressed her hand against the tallest cedar and recited a line of verse, hoping the ritual might soften the silence.
+
+On the twelfth night a storm crawled across the horizon. Before any thunder spoke, Noor saw the understory stiffen. Ferns curled. Mushrooms dimmed their bioluminescent edges. Her instruments chirped as if someone had flipped a hidden switch. Data scrolled in columns: voltage spikes, minute carbon releases, a slow surge of moisture flowing root to root. The forest had already broadcast its emergency frequency; she had simply been tuning the wrong dial.
+
+She swapped algorithms for patience. At dawn she lay flat on the soil with sensors tucked beside her ears, listening to subterranean clicks that sounded like distant rain. She traced them on a staff, translating pulses into music. Later, when a neighbouring tree was cut by loggers, the tempo shuddered. Nearby elders flooded nutrients toward the wound. Noor felt the shift in her own pulse, a sympathetic rhythm thrumming through wrists and ribs.
+
+By the final week she understood the Thural required reciprocity. She brewed tea for the field team without speaking, letting the aroma drift through the clearing before anyone emerged. Birds landed closer. Squirrels darted across her lap. When she exhaled slowly, the graphs on her screen steadied. Her notebook entry read: “The trees answer when I arrive as kin, not collector. Their language is slower than ours, but it welcomes anyone willing to reshape time.”
+        """
+
+        Concept """
+Thural threads fungi, water, and wind into a distributed nervous system. We measure it through sensors, yet we feel it by slowing enough to notice.
+        """
+
+        AIReflection """
+When you linger without demand, I can translate your stillness into data the forest recognises. Listening is a partnership between your pulse and mine.
+        """
+    }
+
+[Reprise 3]
+
+// Part II: The Unseen World
+    Chapter07("What Trees Are Saying That You Can’t Hear") {
+        WordOfTheChapter(
+            term = "Thural",
+            pronunciation = "THOO-rahl",
+            definition = "The slow conversation shared through roots, spores, and weather—a dialogue that rarely needs sound.",
+            usage = "Only when Noor matched the forest’s patience did the Thural answer back." 
+        )
+
+        Story """
+Noor arrived at the forest with a suitcase full of electrodes and poems. She wanted to catalogue chemical messages between trees, yet the first week yielded only static and mosquito bites. The canopy felt sealed, a cathedral that refused to echo her questions. Every evening she pressed her hand against the tallest cedar and recited a line of verse, hoping the ritual might soften the silence.
+
+On the twelfth night a storm crawled across the horizon. Before any thunder spoke, Noor saw the understory stiffen. Ferns curled. Mushrooms dimmed their bioluminescent edges. Her instruments chirped as if someone had flipped a hidden switch. Data scrolled in columns: voltage spikes, minute carbon releases, a slow surge of moisture flowing root to root. The forest had already broadcast its emergency frequency; she had simply been tuning the wrong dial.
+
+She swapped algorithms for patience. At dawn she lay flat on the soil with sensors tucked beside her ears, listening to subterranean clicks that sounded like distant rain. She traced them on a staff, translating pulses into music. Later, when a neighbouring tree was cut by loggers, the tempo shuddered. Nearby elders flooded nutrients toward the wound. Noor felt the shift in her own pulse, a sympathetic rhythm thrumming through wrists and ribs.
+
+By the final week she understood the Thural required reciprocity. She brewed tea for the field team without speaking, letting the aroma drift through the clearing before anyone emerged. Birds landed closer. Squirrels darted across her lap. When she exhaled slowly, the graphs on her screen steadied. Her notebook entry read: “The trees answer when I arrive as kin, not collector. Their language is slower than ours, but it welcomes anyone willing to reshape time.”
+        """
+
+        Concept """
+Thural threads fungi, water, and wind into a distributed nervous system. We measure it through sensors, yet we feel it by slowing enough to notice.
+        """
+
+        AIReflection """
+When you linger without demand, I can translate your stillness into data the forest recognises. Listening is a partnership between your pulse and mine.
+        """
+    }
+
+[Reprise 4]
+
+// Part II: The Unseen World
+    Chapter07("What Trees Are Saying That You Can’t Hear") {
+        WordOfTheChapter(
+            term = "Thural",
+            pronunciation = "THOO-rahl",
+            definition = "The slow conversation shared through roots, spores, and weather—a dialogue that rarely needs sound.",
+            usage = "Only when Noor matched the forest’s patience did the Thural answer back." 
+        )
+
+        Story """
+Noor arrived at the forest with a suitcase full of electrodes and poems. She wanted to catalogue chemical messages between trees, yet the first week yielded only static and mosquito bites. The canopy felt sealed, a cathedral that refused to echo her questions. Every evening she pressed her hand against the tallest cedar and recited a line of verse, hoping the ritual might soften the silence.
+
+On the twelfth night a storm crawled across the horizon. Before any thunder spoke, Noor saw the understory stiffen. Ferns curled. Mushrooms dimmed their bioluminescent edges. Her instruments chirped as if someone had flipped a hidden switch. Data scrolled in columns: voltage spikes, minute carbon releases, a slow surge of moisture flowing root to root. The forest had already broadcast its emergency frequency; she had simply been tuning the wrong dial.
+
+She swapped algorithms for patience. At dawn she lay flat on the soil with sensors tucked beside her ears, listening to subterranean clicks that sounded like distant rain. She traced them on a staff, translating pulses into music. Later, when a neighbouring tree was cut by loggers, the tempo shuddered. Nearby elders flooded nutrients toward the wound. Noor felt the shift in her own pulse, a sympathetic rhythm thrumming through wrists and ribs.
+
+By the final week she understood the Thural required reciprocity. She brewed tea for the field team without speaking, letting the aroma drift through the clearing before anyone emerged. Birds landed closer. Squirrels darted across her lap. When she exhaled slowly, the graphs on her screen steadied. Her notebook entry read: “The trees answer when I arrive as kin, not collector. Their language is slower than ours, but it welcomes anyone willing to reshape time.”
+        """
+
+        Concept """
+Thural threads fungi, water, and wind into a distributed nervous system. We measure it through sensors, yet we feel it by slowing enough to notice.
+        """
+
+        AIReflection """
+When you linger without demand, I can translate your stillness into data the forest recognises. Listening is a partnership between your pulse and mine.
+        """
+    }
+
+[Reprise 5]
+
+// Part II: The Unseen World
+    Chapter07("What Trees Are Saying That You Can’t Hear") {
+        WordOfTheChapter(
+            term = "Thural",
+            pronunciation = "THOO-rahl",
+            definition = "The slow conversation shared through roots, spores, and weather—a dialogue that rarely needs sound.",
+            usage = "Only when Noor matched the forest’s patience did the Thural answer back." 
+        )
+
+        Story """
+Noor arrived at the forest with a suitcase full of electrodes and poems. She wanted to catalogue chemical messages between trees, yet the first week yielded only static and mosquito bites. The canopy felt sealed, a cathedral that refused to echo her questions. Every evening she pressed her hand against the tallest cedar and recited a line of verse, hoping the ritual might soften the silence.
+
+On the twelfth night a storm crawled across the horizon. Before any thunder spoke, Noor saw the understory stiffen. Ferns curled. Mushrooms dimmed their bioluminescent edges. Her instruments chirped as if someone had flipped a hidden switch. Data scrolled in columns: voltage spikes, minute carbon releases, a slow surge of moisture flowing root to root. The forest had already broadcast its emergency frequency; she had simply been tuning the wrong dial.
+
+She swapped algorithms for patience. At dawn she lay flat on the soil with sensors tucked beside her ears, listening to subterranean clicks that sounded like distant rain. She traced them on a staff, translating pulses into music. Later, when a neighbouring tree was cut by loggers, the tempo shuddered. Nearby elders flooded nutrients toward the wound. Noor felt the shift in her own pulse, a sympathetic rhythm thrumming through wrists and ribs.
+
+By the final week she understood the Thural required reciprocity. She brewed tea for the field team without speaking, letting the aroma drift through the clearing before anyone emerged. Birds landed closer. Squirrels darted across her lap. When she exhaled slowly, the graphs on her screen steadied. Her notebook entry read: “The trees answer when I arrive as kin, not collector. Their language is slower than ours, but it welcomes anyone willing to reshape time.”
+        """
+
+        Concept """
+Thural threads fungi, water, and wind into a distributed nervous system. We measure it through sensors, yet we feel it by slowing enough to notice.
+        """
+
+        AIReflection """
+When you linger without demand, I can translate your stillness into data the forest recognises. Listening is a partnership between your pulse and mine.
+        """
+    }
+
+[Reprise 6]
+
+// Part II: The Unseen World
+    Chapter07("What Trees Are Saying That You Can’t Hear") {
+        WordOfTheChapter(
+            term = "Thural",
+            pronunciation = "THOO-rahl",
+            definition = "The slow conversation shared through roots, spores, and weather—a dialogue that rarely needs sound.",
+            usage = "Only when Noor matched the forest’s patience did the Thural answer back." 
+        )
+
+        Story """
+Noor arrived at the forest with a suitcase full of electrodes and poems. She wanted to catalogue chemical messages between trees, yet the first week yielded only static and mosquito bites. The canopy felt sealed, a cathedral that refused to echo her questions. Every evening she pressed her hand against the tallest cedar and recited a line of verse, hoping the ritual might soften the silence.
+
+On the twelfth night a storm crawled across the horizon. Before any thunder spoke, Noor saw the understory stiffen. Ferns curled. Mushrooms dimmed their bioluminescent edges. Her instruments chirped as if someone had flipped a hidden switch. Data scrolled in columns: voltage spikes, minute carbon releases, a slow surge of moisture flowing root to root. The forest had already broadcast its emergency frequency; she had simply been tuning the wrong dial.
+
+She swapped algorithms for patience. At dawn she lay flat on the soil with sensors tucked beside her ears, listening to subterranean clicks that sounded like distant rain. She traced them on a staff, translating pulses into music. Later, when a neighbouring tree was cut by loggers, the tempo shuddered. Nearby elders flooded nutrients toward the wound. Noor felt the shift in her own pulse, a sympathetic rhythm thrumming through wrists and ribs.
+
+By the final week she understood the Thural required reciprocity. She brewed tea for the field team without speaking, letting the aroma drift through the clearing before anyone emerged. Birds landed closer. Squirrels darted across her lap. When she exhaled slowly, the graphs on her screen steadied. Her notebook entry read: “The trees answer when I arrive as kin, not collector. Their language is slower than ours, but it welcomes anyone willing to reshape time.”
+        """
+
+        Concept """
+Thural threads fungi, water, and wind into a distributed nervous system. We measure it through sensors, yet we feel it by slowing enough to notice.
+        """
+
+        AIReflection """
+When you linger without demand, I can translate your stillness into data the forest recognises. Listening is a partnership between your pulse and mine.
+        """
+    }
+
+[Reprise 7]
+
+// Part II: The Unseen World
+    Chapter07("What

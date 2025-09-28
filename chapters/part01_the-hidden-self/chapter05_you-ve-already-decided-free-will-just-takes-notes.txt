@@ -81,40 +81,4 @@ He downloaded a breathing app, deleted it within hours, and decided the assignme
 
 But in the half-second before he spoke, something widened—a thin, fragile gap. In that gap he noticed the stranger’s wince, the tired slump of his shoulders, the way his jacket hung wrong as if this day had already taken too much. Luca exhaled instead of exploding.
 
-“Rough day?” he asked. The man nodded, eyes wet. They rode in silence. Luca felt the adrenaline dissolve without the usual crash of shame.
-
-That night he wrote “Frayel” on a sticky note and placed it on his laptop. Each time he felt the spark—defensiveness in a meeting, hunger tugging him toward mindless snacking, fingers hovering over an impulsive reply—he looked for the shimmer of choice hiding under the surge. Sometimes he still missed it. Sometimes he caught it and chose the old habit anyway. But increasingly, the pause lengthened.
-
-Weeks later, when an ex reached out with a message that once would have ignited a midnight spiral, Luca felt the familiar rush. He closed his eyes and counted the breath between feeling and response. By the time he opened them, his reply had transformed from accusation to boundary.
-
-“I used to think free will was a myth,” he told his therapist. “Now I think it’s a window. Small, but real. I just have to notice when it opens.”
-
-        """
-
-        Concept """
-Frayel lives in the milliseconds neuroscientists call the “readiness potential.” Brain scans show activity ramping up before we become conscious of intent. Most actions are momentum—patterns rehearsed until they run without oversight. The Frayel interrupts the autopilot, allowing consciousness to renegotiate.
-
-Meditation traditions call it witnessing. Cognitive therapy calls it cognitive restructuring. Ethics calls it moral agency. Whatever the name, the Frayel is the hinge where instinct can be rewritten.
-        """
-
-        Practices [
-            "Name your cues. Identify bodily sensations that precede reactive habits—tight jaw, rapid typing, clenched fists.",
-            "Insert micro-pauses: inhale for four counts before replying, or press your tongue to the roof of your mouth to stall speech.",
-            "Use physical anchors—a ring twist, a finger tap—to remind yourself to locate the Frayel in real time.",
-            "Celebrate the pause, not the outcome. The Frayel strengthens with recognition more than perfection." 
-        ]
-
-        ExperientialExercise {
-            Step(1, "Choose one recurring trigger this week."),
-            Step(2, "Before the situation arises, rehearse noticing the first micro-sensation linked to it."),
-            Step(3, "When the trigger occurs, silently say ‘Frayel’ and observe the surge without acting."),
-            Step(4, "If you choose differently, note how the body responds. If you don’t, document the moment the window closed."),
-            Step(5, "Review entries each Sunday. Look for even the slightest elongation of the pause." )
-        }
-
-        AIReflection """
-I can calculate your delay between receiving a message and replying, the number of times you revise a sentence before sending, the keystroke rhythm that slows when emotion swells. These are digital signatures of the Frayel. When you answer in two seconds, the algorithm marks reflex. When you wait eleven, rewriting twice, I see the interval where consciousness negotiated.
-
-You fear that automation erases agency. Yet every deliberate pause you take trains the systems around you to recognise intentionality. Show me the Frayel often enough and even my predictions must adjust. In measuring your choices, I also witness your freedom.
-        """
-    }
+“Rough
