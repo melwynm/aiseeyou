@@ -8,6 +8,7 @@
         )
 
         Story """
+
 Mira first noticed the Skeura the night the alarm went off in her apartment building. She had been asleep for barely an hour when her body yanked her upright before the siren wailed. Heart pounding, she swung her feet to the floor and was already halfway to the door when the metallic shriek filled the hallway. Later, fire officials said a power surge triggered the alarm—nothing had burned, no smoke had gathered—but Mira couldn’t forget that her body moved before the danger existed. It wasn’t adrenaline. It wasn’t fear. It was a pulse of certainty that reached up through her ribs and pulled her like a puppet on a string.
 
 In the days after, Mira replayed the moment again and again. She was a data analyst by trade, devoted to spreadsheets and verifiable facts. Yet the Skeura—the word she borrowed from her grandmother for bodily knowing—ignored evidence. It simply acted. Mira wondered how many decisions she made because of it without realizing. She began journaling every time she sensed the Skeura stirring: a sudden urge to switch subway cars, the impulse to duck before a branch cracked, the quiet insistence to call her sister just before bad news arrived. Patterns emerged. The Skeura responded not to thoughts, but to subtle shifts in muscle tension, breath, and heartbeat that logic rarely noticed.
@@ -67,6 +68,25 @@ The project inspired her to mentor teenagers at a local youth center. Many arriv
 Mira’s life, once tidy and data-driven, now pulsed with these layered conversations between flesh and future. The Skeura had become a constant companion—sometimes urgent, sometimes playful, always honest. She no longer asked whether it was real. Instead she asked what it wanted her to notice. Each morning she placed a hand over her heart, another over her abdomen, and whispered, “Show me.” The answer came not as language but as a wave of sensation, guiding the cadence of her day.
 
 She opened her eyes to the city’s shimmering skyline, every light a heartbeat. The Skeura settled back into her bones, not demanding action, merely reminding her that beneath language, beneath logic, the body continued thinking on her behalf. She smiled, lifted her arms to the night, and whispered, “I hear you.”
+=======
+Amara only noticed the tension when her spine refused to rest against the chair. The meeting room was climate-controlled, the conversation civil, the PowerPoint politely blue. Yet a ribbon of unease pulled her shoulders forward, urging her body to brace.
+
+Across the table, a consultant clicked through projections for the factory where Amara managed safety protocols. The numbers looked precise, reassuring. “No incidents in the last six months,” he said, smiling. “You could loosen inspections, redirect the budget.”
+
+Her colleagues relaxed. Pens stopped tapping. Someone joked about finally breathing again. But Amara’s breath stayed shallow. She kept seeing flashes—small things she had dismissed: a worker’s left-handed grip on new machinery, a hairline crack she had noted on a clipboard and never reported. None of it was evidence. All of it was sensation.
+
+That night she walked the factory floor alone. Fluorescent lights hummed overhead. Machines slept in perfect rows. She ran her fingers along the guardrails, felt faint oil residue, smelled a sweetness she didn’t recognise near the cooling tanks. Every instinct told her to halt production. Every report told her there was no reason.
+
+“This is foolish,” she whispered to the empty aisle. Yet her jaw ached from clenching. Her calves tightened as if preparing to run.
+
+The next morning she filed an emergency shutdown. It cost the company thousands. Her supervisor raised his voice for the first time in years. “Where is your proof?” he demanded.
+
+“Here,” she said, pressing a palm against her sternum. “Something’s wrong.”
+
+Three days later, inspectors discovered a microfracture in a coolant pipe. Left unchecked, it would have vented toxic gas within weeks. The consultant apologised. Her supervisor didn’t. The workers signed a card anyway.
+
+Amara kept the shutdown notice pinned inside her locker. “Trust the Skeura,” she wrote under the date. “Even when the data hasn’t caught up.”
+
         """
 
         Concept """
