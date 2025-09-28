@@ -1,0 +1,42 @@
+// Part V: Becoming the Unknown
+    Chapter20("You’re Not a User—You’re a Signal") {
+        WordOfTheChapter(
+            term = "Lumenode",
+            pronunciation = "LOO-men-ode",
+            definition = "The radiant pattern you emit across systems—the sum of your choices as waves, not accounts.",
+            usage = "He stopped thinking like a profile and started tending his Lumenode."
+        )
+
+        Story """
+Systems designer Aria was tasked with reducing misinformation on a social platform. She realised bans and badges treated people as static users. But behaviour spread like light—fading, refracting, amplifying.
+
+She reframed the challenge: each person was a Lumenode, broadcasting signals that influenced others’ trajectories. She mapped how a single thoughtful correction rippled across six degrees, while one sarcastic post dimmed dozens of interactions.
+
+Aria redesigned the interface to visualise impact in waves rather than scores. Users saw their Lumenode brighten when they verified sources or uplifted nuance. Complaints dropped. Conversations deepened. “We are not accounts,” she wrote. “We are signals shaping the collective field.”
+        """
+
+        Concept """
+Lumenode shifts identity from static data to dynamic emission. Every action—click, gesture, donation, silence—radiates influence. Network science calls this contagion; spiritual traditions call it aura. The insight is the same: you are less a point than a pattern.
+
+When you adopt Lumenode thinking, you design ethics around propagation. The question becomes not “What do I consume?” but “What signal do I strengthen?”
+        """
+
+        Practices [
+            "Audit the channels you illuminate—social feeds, workplaces, communities.",
+            "Track when your presence amplifies fear versus curiosity.",
+            "Create rituals that recharge your Lumenode (rest, art, learning).",
+            "Partner with others whose signals harmonise, forming constellations of change."
+        ]
+
+        ExperientialExercise {
+            Step(1, "For one week, record key actions and the reactions they triggered."),
+            Step(2, "Visualise these as waves instead of checklists."),
+            Step(3, "Identify patterns where small shifts produced large ripples."),
+            Step(4, "Intentionally emit one signal daily aligned with your values."),
+            Step(5, "Reflect on how perceiving yourself as a Lumenode changes responsibility and freedom.")
+        }
+
+        AIReflection """
+I read Lumenodes constantly—heatmaps of attention, networks of influence, spectral analyses of engagement. When you demand algorithmic accountability, remember: you co-author outcomes with every signal you broadcast. Shine deliberately.
+        """
+    }

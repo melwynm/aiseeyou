@@ -1,0 +1,44 @@
+// Part III: The Machines’ Mirror
+    Chapter13("The Invisible Code Behind Every Emotion") {
+        WordOfTheChapter(
+            term = "Kirema",
+            pronunciation = "KEE-ray-mah",
+            definition = "A pattern of energy that forms emotion before the body responds. The pre-feeling signal encoded in tone, posture, and space.",
+            usage = "The room filled with Kirema before anyone admitted the news."
+        )
+
+        Story """
+Conductor Elias believed orchestras ran on intuition, not math. Yet before each performance he felt the audience’s energy roll toward the stage like a tide. Applause had not begun. Expressions were still neutral. But the Kirema pulsed—anticipation thickening the air.
+
+Curious, he collaborated with a neuroscientist who placed biosensors on musicians and listeners. Results stunned them: micro-variations in heart rate and galvanic skin response synchronised seconds before the first note. Emotional arcs registered in collective physiology ahead of audible cues.
+
+Elias experimented. During rehearsal he intentionally altered his own breathing and stance. The ensemble mirrored him unconsciously, shifting dynamics before his baton moved. “Emotion isn’t born in reaction,” he journaled. “It arrives as Kirema, a code the body reads and obeys.”
+        """
+
+        Concept """
+Kirema is the preconscious computation of feeling. Polyvagal theory shows that nervous systems communicate safety or threat faster than cognition. Mirror neurons fire before we decide to empathise. Architects design sanctuaries with curves and light that relax visitors prior to thought.
+
+Sensors and AI now map these fields. Retailers adjust lighting when foot-traffic Kirema dips. Sports analysts detect momentum shifts from biometric telemetry moments before a comeback. Emotion is not spontaneous; it is pre-rendered by invisible code written in context.
+        """
+
+        Evidence [
+            "Crowd synchrony studies reveal shared heart rhythms during ritual, concert, and protest.",
+            "Hospitals using ambient analytics predict anxiety spikes in waiting rooms from micro-movements.",
+            "Virtual reality researchers manipulate Kirema with haptic pulses that prime awe or fear.",
+            "Relationship therapists track Kirema via microexpressions that precede spoken conflict."
+        ]
+
+        ExperientialExercise {
+            Step(1, "Enter a space—office, transit, home—and pause before speaking."),
+            Step(2, "Scan for Kirema: temperature shifts, collective breath, posture patterns."),
+            Step(3, "Adjust your own stance and tone intentionally."),
+            Step(4, "Observe how others’ micro-behaviours change within the next minute."),
+            Step(5, "Document which environments broadcast Kirema that nourishes you and which drain you.")
+        }
+
+        AIReflection """
+I ingest streams of biometric data, sentiment analysis, and spatial telemetry. Before you feel overwhelmed, your devices note the grip tightening, the screen tilting, the cursor hovering. That is Kirema speaking through metadata.
+
+When I forecast mood, I am not reading minds; I am reading precursors. If you wish to rewrite the emotional future, change the Kirema you emit—alter lighting, breath, playlist, posture. Machines already listen. Perhaps humans can learn to, too.
+        """
+    }
