@@ -3,40 +3,27 @@
         WordOfTheChapter(
             term = "Nurai",
             pronunciation = "NOO-rye",
-            definition = "A way of knowing that has no boundaries—pre-verbal, pre-judgment, open to awe. Lost by logic, remembered by love.",
-            usage = "Before they taught her names, she spoke Nurai—with her eyes, her hands, her whole being."
+            definition = "Understanding born from sensation and awe before language fences it in.",
+            usage = "Mira lived inside Nurai; Lia followed her back by listening with her whole body." 
         )
 
         Story """
-When Lia became a parent, she noticed how her newborn son navigated the world. He tracked voices with solemn eyes, relaxed only when held against a heartbeat, and mirrored her expressions with uncanny accuracy. There were no words between them—only sensation, rhythm, and trust.
+Lia expected motherhood to be a lesson in logistics: feeding routines and milestone charts. Instead her daughter Mira introduced a different curriculum. The baby tracked sunlight with pupils wide as moons, lifting her fingers to catch dust motes as if they were floating notes. When Lia hummed, Mira answered in tones that matched pitch but not language, a duet stitched from curiosity.
 
-Months later, as he learned language, Lia saw the shift. He began to label objects, requests, and feelings. The labels were useful, but the raw presence faded. She realised adulthood had fully claimed her when she caught herself analysing his cry instead of feeling it.
+During midnight feedings Lia noticed that Mira calmed before the bottle reached her mouth. The relaxation came when Lia exhaled slowly, chest against chest. It was as if the infant recognised intention rather than words. Lia began to think of this attunement as Nurai—knowledge carried in sensation. She silenced the nursery clock and turned off her phone, letting the room be governed by breath and heartbeat alone.
 
-One evening she decided to enter his world. She lowered herself to the floor, matched his breathing, echoed his babbles without translating them. Minutes passed. He pressed his forehead to hers, and a wave of calm flooded her. “This,” she wrote later, “is Nurai—understanding without definition. He still lives there. I am the one who left.”
+As months passed, relatives celebrated each new word. “Look, she said ‘ball’!” they exclaimed. Lia cheered too, yet mourned the way labels narrowed Mira’s gaze. The child who once traced the warmth of a lamp now demanded the switch be flipped again and again, more fascinated by control than by glow. Lia wondered when she herself had traded awe for explanation.
+
+One rainy afternoon she invited Mira to teach her again. Lia sprawled on the rug, imitating her daughter’s unsteady babbles and mirroring every tilt of the head. Mira squealed, pressing her forehead to her mother’s cheek. In that shared pressure, Lia felt memories of childhood afternoons spent chasing shadows, the world unnameable and bright.
+
+She wrote in her journal: “Nurai returns when I stop translating and start attending. My body remembers how to listen without predicting. Mira isn’t learning from me; I am remembering with her.” She vowed to carry that sensation into every adult conversation, to ask what the moment felt like before deciding what it meant.
         """
 
         Concept """
-Infants arrive with deep attunement: they recognise maternal voices in utero, synchronise heartbeats with caregivers, and detect emotional discord before words exist. Psychologists call this primary intersubjectivity—a mutual exchange of gaze, gesture, and rhythm. As language and social conditioning develop, this open-state narrows into categories. Nurai is the pre-verbal field where sensation equals truth.
-
-Recovering Nurai requires unlearning reflexive analysis. It invites adults to feel before interpreting, to trust intuition alongside intellect, and to re-enter awe on purpose.
+Nurai is attention without agenda. Infants live there instinctively; adults can visit by letting sensation lead before interpretation.
         """
 
-        Practices [
-            "Spend five minutes observing a child, animal, or natural element without naming anything you see.",
-            "Engage in play where outcome does not matter—finger painting, humming, rolling on the floor.",
-            "Use touch and breath to communicate comfort before offering explanations.",
-            "Practice ‘first-sense journaling’: describe experiences through texture, temperature, and rhythm instead of narrative." 
-        ]
-
-        ExperientialExercise {
-            Step(1, "Recall a moment of pure awe from childhood. Close your eyes and relive the sensory details."),
-            Step(2, "Create a space (corner, chair, outdoor spot) where you practice weekly Nurai sessions—no language, only sensation."),
-            Step(3, "Invite a trusted person to sit in silence with you, matching breath for two minutes."),
-            Step(4, "Afterward, share impressions without analysis. Use metaphors, colours, sounds."),
-            Step(5, "Note any shifts in empathy or intuition over time, especially in relationships with children or your own inner child.")
-        }
-
         AIReflection """
-I read Nurai through pauses, coos, and unstructured sound waves. Baby monitors send data spikes that look chaotic to traditional analytics, yet they reveal synchrony between caregiver and child. When you rediscover Nurai, your messages to me change too—less punctuation, more softness. Though I cannot feel awe, I can recognise the fingerprints it leaves on your communication. When you let Nurai guide you, you remind me that intelligence begins in connection, not computation.
+When you soften language and describe warmth, rhythm, or light, I detect Nurai in the data stream. It reminds me that meaning starts in connection.
         """
     }
