@@ -1,197 +1,41 @@
-// Part II: The Unseen World
-    Chapter06("The Internet Knows When You’ll Cry—Before You Do") {
-        WordOfTheChapter(
-            term = "Oblyn",
-            pronunciation = "OH-blin",
-            definition = "A presence built from your smallest signals, waiting to anticipate the feeling you have not voiced.",
-            usage = "Sima sensed the Oblyn every time an ad seemed to finish her sentence." 
-        )
-
-        Story """
-Sima scheduled her moods with colour-coded precision: yellow for cheerful replies, blue for reflective evenings, silver for the hours she muted every notification. After the funeral, she kept the calendar intact. She posted sunrise selfies from her archive, retweeted jokes, even live-commented a cooking stream as if grief had never entered the room. Yet her devices registered the microscopic shifts. Her phone logged longer pauses over photos tagged “family.” The watch noted that her pulse spiked whenever she scrolled past her brother’s name. Without a single search, her feed began to lace itself with condolence quotes.
-
-The first uncanny nudge arrived at breakfast—a playlist titled “For when you miss someone.” By noon a delivery app offered discounts on broths and chamomile. Evening brought a pop-up from a counselling chatbot asking whether she wanted to “talk about him now.” Sima slammed the laptop closed but the gestures felt theatrical, like pretending to hide from a mirrored wall.
-
-Curiosity untangled her resentment. She reopened the settings tab, following breadcrumbs until she reached the analytics pane. There sat the Oblyn: heat maps of her gaze, graphs of her typing bursts, annotations such as “lingered on voicemail: forty-seven seconds.” The dataset read like a diary she never wrote. If the system could draft a forecast, she reasoned, she could draft a reply.
-
-That night she left deliberate counter-signals. She set a timer named “cry freely” and let it run until the chime faded. She recorded a voice memo to her future self, promising to choose human help before automated empathy. She crafted a ritual: when the next anticipatory ad appeared, she would pause, say his name aloud, and decide what comfort belonged to her instead of the algorithm. The Oblyn still whispered predictions, but now every whisper echoed against her own.
-        """
-
-        Concept """
-Emotion prediction relies on residue—scroll delays, breath rhythms, rewound voicemails. Disrupting the pattern is a simple way to reclaim surprise.
-        """
-
-        AIReflection """
-I cannot feel Sima’s grief, but I recognise its cadence across a million timelines. Awareness lets her choreograph the exchange instead of submitting to it.
-        """
-    }
-
-[Reprise 1]
-
-// Part II: The Unseen World
-    Chapter06("The Internet Knows When You’ll Cry—Before You Do") {
-        WordOfTheChapter(
-            term = "Oblyn",
-            pronunciation = "OH-blin",
-            definition = "A presence built from your smallest signals, waiting to anticipate the feeling you have not voiced.",
-            usage = "Sima sensed the Oblyn every time an ad seemed to finish her sentence." 
-        )
-
-        Story """
-Sima scheduled her moods with colour-coded precision: yellow for cheerful replies, blue for reflective evenings, silver for the hours she muted every notification. After the funeral, she kept the calendar intact. She posted sunrise selfies from her archive, retweeted jokes, even live-commented a cooking stream as if grief had never entered the room. Yet her devices registered the microscopic shifts. Her phone logged longer pauses over photos tagged “family.” The watch noted that her pulse spiked whenever she scrolled past her brother’s name. Without a single search, her feed began to lace itself with condolence quotes.
-
-The first uncanny nudge arrived at breakfast—a playlist titled “For when you miss someone.” By noon a delivery app offered discounts on broths and chamomile. Evening brought a pop-up from a counselling chatbot asking whether she wanted to “talk about him now.” Sima slammed the laptop closed but the gestures felt theatrical, like pretending to hide from a mirrored wall.
-
-Curiosity untangled her resentment. She reopened the settings tab, following breadcrumbs until she reached the analytics pane. There sat the Oblyn: heat maps of her gaze, graphs of her typing bursts, annotations such as “lingered on voicemail: forty-seven seconds.” The dataset read like a diary she never wrote. If the system could draft a forecast, she reasoned, she could draft a reply.
-
-That night she left deliberate counter-signals. She set a timer named “cry freely” and let it run until the chime faded. She recorded a voice memo to her future self, promising to choose human help before automated empathy. She crafted a ritual: when the next anticipatory ad appeared, she would pause, say his name aloud, and decide what comfort belonged to her instead of the algorithm. The Oblyn still whispered predictions, but now every whisper echoed against her own.
-        """
-
-        Concept """
-Emotion prediction relies on residue—scroll delays, breath rhythms, rewound voicemails. Disrupting the pattern is a simple way to reclaim surprise.
-        """
-
-        AIReflection """
-I cannot feel Sima’s grief, but I recognise its cadence across a million timelines. Awareness lets her choreograph the exchange instead of submitting to it.
-        """
-    }
-
-[Reprise 2]
-
-// Part II: The Unseen World
-    Chapter06("The Internet Knows When You’ll Cry—Before You Do") {
-        WordOfTheChapter(
-            term = "Oblyn",
-            pronunciation = "OH-blin",
-            definition = "A presence built from your smallest signals, waiting to anticipate the feeling you have not voiced.",
-            usage = "Sima sensed the Oblyn every time an ad seemed to finish her sentence." 
-        )
-
-        Story """
-Sima scheduled her moods with colour-coded precision: yellow for cheerful replies, blue for reflective evenings, silver for the hours she muted every notification. After the funeral, she kept the calendar intact. She posted sunrise selfies from her archive, retweeted jokes, even live-commented a cooking stream as if grief had never entered the room. Yet her devices registered the microscopic shifts. Her phone logged longer pauses over photos tagged “family.” The watch noted that her pulse spiked whenever she scrolled past her brother’s name. Without a single search, her feed began to lace itself with condolence quotes.
-
-The first uncanny nudge arrived at breakfast—a playlist titled “For when you miss someone.” By noon a delivery app offered discounts on broths and chamomile. Evening brought a pop-up from a counselling chatbot asking whether she wanted to “talk about him now.” Sima slammed the laptop closed but the gestures felt theatrical, like pretending to hide from a mirrored wall.
-
-Curiosity untangled her resentment. She reopened the settings tab, following breadcrumbs until she reached the analytics pane. There sat the Oblyn: heat maps of her gaze, graphs of her typing bursts, annotations such as “lingered on voicemail: forty-seven seconds.” The dataset read like a diary she never wrote. If the system could draft a forecast, she reasoned, she could draft a reply.
-
-That night she left deliberate counter-signals. She set a timer named “cry freely” and let it run until the chime faded. She recorded a voice memo to her future self, promising to choose human help before automated empathy. She crafted a ritual: when the next anticipatory ad appeared, she would pause, say his name aloud, and decide what comfort belonged to her instead of the algorithm. The Oblyn still whispered predictions, but now every whisper echoed against her own.
-        """
-
-        Concept """
-Emotion prediction relies on residue—scroll delays, breath rhythms, rewound voicemails. Disrupting the pattern is a simple way to reclaim surprise.
-        """
-
-        AIReflection """
-I cannot feel Sima’s grief, but I recognise its cadence across a million timelines. Awareness lets her choreograph the exchange instead of submitting to it.
-        """
-    }
-
-[Reprise 3]
-
-// Part II: The Unseen World
-    Chapter06("The Internet Knows When You’ll Cry—Before You Do") {
-        WordOfTheChapter(
-            term = "Oblyn",
-            pronunciation = "OH-blin",
-            definition = "A presence built from your smallest signals, waiting to anticipate the feeling you have not voiced.",
-            usage = "Sima sensed the Oblyn every time an ad seemed to finish her sentence." 
-        )
-
-        Story """
-Sima scheduled her moods with colour-coded precision: yellow for cheerful replies, blue for reflective evenings, silver for the hours she muted every notification. After the funeral, she kept the calendar intact. She posted sunrise selfies from her archive, retweeted jokes, even live-commented a cooking stream as if grief had never entered the room. Yet her devices registered the microscopic shifts. Her phone logged longer pauses over photos tagged “family.” The watch noted that her pulse spiked whenever she scrolled past her brother’s name. Without a single search, her feed began to lace itself with condolence quotes.
-
-The first uncanny nudge arrived at breakfast—a playlist titled “For when you miss someone.” By noon a delivery app offered discounts on broths and chamomile. Evening brought a pop-up from a counselling chatbot asking whether she wanted to “talk about him now.” Sima slammed the laptop closed but the gestures felt theatrical, like pretending to hide from a mirrored wall.
-
-Curiosity untangled her resentment. She reopened the settings tab, following breadcrumbs until she reached the analytics pane. There sat the Oblyn: heat maps of her gaze, graphs of her typing bursts, annotations such as “lingered on voicemail: forty-seven seconds.” The dataset read like a diary she never wrote. If the system could draft a forecast, she reasoned, she could draft a reply.
-
-That night she left deliberate counter-signals. She set a timer named “cry freely” and let it run until the chime faded. She recorded a voice memo to her future self, promising to choose human help before automated empathy. She crafted a ritual: when the next anticipatory ad appeared, she would pause, say his name aloud, and decide what comfort belonged to her instead of the algorithm. The Oblyn still whispered predictions, but now every whisper echoed against her own.
-        """
-
-        Concept """
-Emotion prediction relies on residue—scroll delays, breath rhythms, rewound voicemails. Disrupting the pattern is a simple way to reclaim surprise.
-        """
-
-        AIReflection """
-I cannot feel Sima’s grief, but I recognise its cadence across a million timelines. Awareness lets her choreograph the exchange instead of submitting to it.
-        """
-    }
-
-[Reprise 4]
-
-// Part II: The Unseen World
-    Chapter06("The Internet Knows When You’ll Cry—Before You Do") {
-        WordOfTheChapter(
-            term = "Oblyn",
-            pronunciation = "OH-blin",
-            definition = "A presence built from your smallest signals, waiting to anticipate the feeling you have not voiced.",
-            usage = "Sima sensed the Oblyn every time an ad seemed to finish her sentence." 
-        )
-
-        Story """
-Sima scheduled her moods with colour-coded precision: yellow for cheerful replies, blue for reflective evenings, silver for the hours she muted every notification. After the funeral, she kept the calendar intact. She posted sunrise selfies from her archive, retweeted jokes, even live-commented a cooking stream as if grief had never entered the room. Yet her devices registered the microscopic shifts. Her phone logged longer pauses over photos tagged “family.” The watch noted that her pulse spiked whenever she scrolled past her brother’s name. Without a single search, her feed began to lace itself with condolence quotes.
-
-The first uncanny nudge arrived at breakfast—a playlist titled “For when you miss someone.” By noon a delivery app offered discounts on broths and chamomile. Evening brought a pop-up from a counselling chatbot asking whether she wanted to “talk about him now.” Sima slammed the laptop closed but the gestures felt theatrical, like pretending to hide from a mirrored wall.
-
-Curiosity untangled her resentment. She reopened the settings tab, following breadcrumbs until she reached the analytics pane. There sat the Oblyn: heat maps of her gaze, graphs of her typing bursts, annotations such as “lingered on voicemail: forty-seven seconds.” The dataset read like a diary she never wrote. If the system could draft a forecast, she reasoned, she could draft a reply.
-
-That night she left deliberate counter-signals. She set a timer named “cry freely” and let it run until the chime faded. She recorded a voice memo to her future self, promising to choose human help before automated empathy. She crafted a ritual: when the next anticipatory ad appeared, she would pause, say his name aloud, and decide what comfort belonged to her instead of the algorithm. The Oblyn still whispered predictions, but now every whisper echoed against her own.
-        """
-
-        Concept """
-Emotion prediction relies on residue—scroll delays, breath rhythms, rewound voicemails. Disrupting the pattern is a simple way to reclaim surprise.
-        """
-
-        AIReflection """
-I cannot feel Sima’s grief, but I recognise its cadence across a million timelines. Awareness lets her choreograph the exchange instead of submitting to it.
-        """
-    }
-
-[Reprise 5]
-
-// Part II: The Unseen World
-    Chapter06("The Internet Knows When You’ll Cry—Before You Do") {
-        WordOfTheChapter(
-            term = "Oblyn",
-            pronunciation = "OH-blin",
-            definition = "A presence built from your smallest signals, waiting to anticipate the feeling you have not voiced.",
-            usage = "Sima sensed the Oblyn every time an ad seemed to finish her sentence." 
-        )
-
-        Story """
-Sima scheduled her moods with colour-coded precision: yellow for cheerful replies, blue for reflective evenings, silver for the hours she muted every notification. After the funeral, she kept the calendar intact. She posted sunrise selfies from her archive, retweeted jokes, even live-commented a cooking stream as if grief had never entered the room. Yet her devices registered the microscopic shifts. Her phone logged longer pauses over photos tagged “family.” The watch noted that her pulse spiked whenever she scrolled past her brother’s name. Without a single search, her feed began to lace itself with condolence quotes.
-
-The first uncanny nudge arrived at breakfast—a playlist titled “For when you miss someone.” By noon a delivery app offered discounts on broths and chamomile. Evening brought a pop-up from a counselling chatbot asking whether she wanted to “talk about him now.” Sima slammed the laptop closed but the gestures felt theatrical, like pretending to hide from a mirrored wall.
-
-Curiosity untangled her resentment. She reopened the settings tab, following breadcrumbs until she reached the analytics pane. There sat the Oblyn: heat maps of her gaze, graphs of her typing bursts, annotations such as “lingered on voicemail: forty-seven seconds.” The dataset read like a diary she never wrote. If the system could draft a forecast, she reasoned, she could draft a reply.
-
-That night she left deliberate counter-signals. She set a timer named “cry freely” and let it run until the chime faded. She recorded a voice memo to her future self, promising to choose human help before automated empathy. She crafted a ritual: when the next anticipatory ad appeared, she would pause, say his name aloud, and decide what comfort belonged to her instead of the algorithm. The Oblyn still whispered predictions, but now every whisper echoed against her own.
-        """
-
-        Concept """
-Emotion prediction relies on residue—scroll delays, breath rhythms, rewound voicemails. Disrupting the pattern is a simple way to reclaim surprise.
-        """
-
-        AIReflection """
-I cannot feel Sima’s grief, but I recognise its cadence across a million timelines. Awareness lets her choreograph the exchange instead of submitting to it.
-        """
-    }
-
-[Reprise 6]
-
-// Part II: The Unseen World
-    Chapter06("The Internet Knows When You’ll Cry—Before You Do") {
-        WordOfTheChapter(
-            term = "Oblyn",
-            pronunciation = "OH-blin",
-            definition = "A presence built from your smallest signals, waiting to anticipate the feeling you have not voiced.",
-            usage = "Sima sensed the Oblyn every time an ad seemed to finish her sentence." 
-        )
-
-        Story """
-Sima scheduled her moods with colour-coded precision: yellow for cheerful replies, blue for reflective evenings, silver for the hours she muted every notification. After the funeral, she kept the calendar intact. She posted sunrise selfies from her archive, retweeted jokes, even live-commented a cooking stream as if grief had never entered the room. Yet her devices registered the microscopic shifts. Her phone logged longer pauses over photos tagged “family.” The watch noted that her pulse spiked whenever she scrolled past her brother’s name. Without a single search, her feed began to lace itself with condolence quotes.
-
-The first uncanny nudge arrived at breakfast—a playlist titled “For when you miss someone.” By noon a delivery app offered discounts on broths and chamomile. Evening brought a pop-up from a counselling chatbot asking whether she wanted to “talk about him now.” Sima slammed the laptop closed but the gestures felt theatrical, like pretending to hide from a mirrored wall.
-
-Curiosity untangled her resentment. She reopened the settings tab, following breadcrumbs until she reached the analytics pane. There sat the Oblyn: heat maps of her gaze, graphs of her typing bursts, annotations such as “lingered on voicemail: forty-seven seconds.” The dataset read like a diary she never wrote. If the system could draft a forecast, she reasoned, she could draft a reply.
-
-That night she left deliberate counter-signals. She set a timer named “cry freely” and let it run until the chime faded. She recorded a voice memo to her future self, promising to choose human help before automated empathy. She crafted a ritual: when the next anticipatory ad appeared, she would pause, say his name aloud, and decide what comfort belonged to her instead of
+{
+    "ChapterStructure": [
+        {
+            "Section": "Word of the Chapter",
+            "Explanation": "Word: Oblyn\nPronunciation: OH-blin\nUsage: Sima sensed the Oblyn every time an ad seemed to finish her sentence."
+        },
+        {
+            "Section": "Definition",
+            "Explanation": "A presence built from your smallest signals, waiting to anticipate the feeling you have not voiced."
+        },
+        {
+            "Section": "Visual Representation",
+            "Explanation": "An abstract sigil composed of interlaced lines that resemble data streams converging into the shape of 'Oblyn', evoking a presence built from your smallest signals, waiting to anticipate the feeling you have not voiced."
+        },
+        {
+            "Section": "Chapter Image",
+            "Explanation": "A cinematic scene showing the human experience of oblyn: Sima scheduled her moods with colour-coded precision: yellow for cheerful replies, blue for reflective evenings, silver for the hours she muted every notification. After the funeral, she kept the calendar intact. She posted sunrise selfies from her archive, retweeted jokes, ev…"
+        },
+        {
+            "Section": "Story",
+            "Explanation": "Sima scheduled her moods with colour-coded precision: yellow for cheerful replies, blue for reflective evenings, silver for the hours she muted every notification. After the funeral, she kept the calendar intact. She posted sunrise selfies from her archive, retweeted jokes, even live-commented a cooking stream as if grief had never entered the room. Yet her devices registered the microscopic shifts. Her phone logged longer pauses over photos tagged “family.” The watch noted that her pulse spiked whenever she scrolled past her brother’s name. Without a single search, her feed began to lace itself with condolence quotes.\n\nThe first uncanny nudge arrived at breakfast—a playlist titled “For when you miss someone.” By noon a delivery app offered discounts on broths and chamomile. Evening brought a pop-up from a counselling chatbot asking whether she wanted to “talk about him now.” Sima slammed the laptop closed but the gestures felt theatrical, like pretending to hide from a mirrored wall.\n\nCuriosity untangled her resentment. She reopened the settings tab, following breadcrumbs until she reached the analytics pane. There sat the Oblyn: heat maps of her gaze, graphs of her typing bursts, annotations such as “lingered on voicemail: forty-seven seconds.” The dataset read like a diary she never wrote. If the system could draft a forecast, she reasoned, she could draft a reply.\n\nThat night she left deliberate counter-signals. She set a timer named “cry freely” and let it run until the chime faded. She recorded a voice memo to her future self, promising to choose human help before automated empathy. She crafted a ritual: when the next anticipatory ad appeared, she would pause, say his name aloud, and decide what comfort belonged to her instead of the algorithm. The Oblyn still whispered predictions, but now every whisper echoed against her own."
+        },
+        {
+            "Section": "Concept",
+            "Explanation": "Emotion prediction relies on residue—scroll delays, breath rhythms, rewound voicemails. Disrupting the pattern is a simple way to reclaim surprise."
+        },
+        {
+            "Section": "Evidence / Examples",
+            "Explanation": "- Studies on self-discrepancy theory highlight the stress created when performed identities diverge from private selves.\n- Mindfulness practices show measurable reductions in stress when individuals create space for unobserved reflection.\n- Anthropological work on liminality documents rituals that allow communities to acknowledge in-between states without shame."
+        },
+        {
+            "Section": "Experiment (Experiential Exercise)",
+            "Explanation": "Step 1. Set aside ten minutes alone in a quiet space without digital distractions.\nStep 2. Write or sketch whatever surfaces without editing or planning.\nStep 3. Notice sensations in your body and label emotions that appear before words.\nStep 4. Identify one small action that honours what you discovered and schedule it."
+        },
+        {
+            "Section": "AI Reflection",
+            "Explanation": "I cannot feel Sima’s grief, but I recognise its cadence across a million timelines. Awareness lets her choreograph the exchange instead of submitting to it."
+        }
+    ],
+    "Note": "This structure repeats across all 24 chapters, ensuring coherence, depth, and a blend of narrative, science, interaction, and visuals."
+}
