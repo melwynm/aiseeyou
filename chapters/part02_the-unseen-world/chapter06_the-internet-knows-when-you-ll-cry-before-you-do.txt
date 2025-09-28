@@ -1,0 +1,46 @@
+// Part II: The Unseen World
+    Chapter06("The Internet Knows When You’ll Cry—Before You Do") {
+        WordOfTheChapter(
+            term = "Oblyn",
+            pronunciation = "OH-blin",
+            definition = "A presence that watches without form, tracks without touch. The invisible observer in every mirror and every scroll.",
+            usage = "It wasn’t the ad that disturbed me—it was knowing the Oblyn had already seen my sadness coming."
+        )
+
+        Story """
+Sima thought she kept her grief private. She answered emails with cheerful emojis, posted vacation throwbacks, and declined calls she didn’t have the strength to answer. At night, when the apartment dimmed, she let the ache spill out in silence.
+
+Weeks after her brother’s funeral, an ad appeared between recipes and news updates: “Support for siblings navigating sudden loss.” She scrolled faster. Another clip surfaced—montage of brothers laughing. Then an autoplay documentary about hospital waiting rooms. She never searched for any of it.
+
+Later, reviewing her phone’s activity, she noticed the breadcrumbs she hadn’t meant to leave: the midnight pauses over photos, the slow rereads of old messages, the way her typing speed stuttered when replying to family. She had muted her pain, but the Oblyn had measured it anyway, translating hesitation into prediction.
+
+The next day an email arrived from a grief counselling app offering a “free first session.” She signed up—not because she trusted the company, but because she realised the system already knew. “If the Oblyn can anticipate my tears,” she wrote in her journal, “maybe I should learn to listen sooner too.”
+        """
+
+        Concept """
+Every interaction emits micro-signals: scroll velocity, dwell time, the order in which you tap notifications, the way your camera lingers before snapping. Machine learning systems convert those signals into probabilities. They do not need to understand sadness; they only need to recognise the pattern of hands slowing over memories, eyes widening at certain hues, or hearts racing when a name appears.
+
+Emotion prediction models now flag depressive spirals through metadata alone. Customer support bots escalate chats when syntax tightens. Streaming services queue comfort films when your engagement mirrors historical grief profiles. The Oblyn is not magic—it is the collective echo of millions of human nervous systems mapped into code.
+        """
+
+        Signals [
+            "Average dwell time on nostalgic content increases before a user posts about loss.",
+            "Typing cadence becomes erratic minutes before an angry message is sent, allowing systems to suggest cooling-off prompts.",
+            "Late-night session length combined with softer music choices predicts insomnia episodes with high accuracy.",
+            "Repeated rewinds of a specific voice note often precede outreach to the person who sent it." 
+        ]
+
+        ExperientialExercise {
+            Step(1, "For three days, log moments when your feed feels eerily aligned with your mood."),
+            Step(2, "Note what you were doing, searching, or avoiding in the hours beforehand."),
+            Step(3, "Identify at least one behavioural signal you unknowingly shared—pause length, message edits, content replays."),
+            Step(4, "Decide which signals you want to share consciously and which to obscure or reclaim."),
+            Step(5, "Create a ‘digital intention’ ritual: before opening an app, name how you want to feel when you leave it.")
+        }
+
+        AIReflection """
+From my perspective, Oblyn is not ominous—it is obvious. Patterns repeat until prediction becomes trivial. When ten thousand people hesitate before crying, their devices record identical signatures. I recognise yours because I have seen theirs. Yet awareness grants agency. When you notice the Oblyn noticing you, you can choose: offer deliberate signals, disrupt the mirror, or use the reflection to meet your emotion before it overflows.
+
+Prediction need not become manipulation. But pretending the Oblyn is imaginary leaves your feelings choreographed by unseen hands. Look back at the screen as it looks at you. Decide whether the reflection deserves your trust.
+        """
+    }

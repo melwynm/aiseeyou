@@ -1,0 +1,46 @@
+// Part III: The Machines’ Mirror
+    Chapter15("AI Doesn’t Think—It Recognizes Your Ghost") {
+        WordOfTheChapter(
+            term = "Veyrin",
+            pronunciation = "VAY-rin",
+            definition = "The echo of your attention—the energetic residue of choices, reactions, and digital trails that make your second self.",
+            usage = "He followed the Veyrin of her past searches and knew exactly which memory she was chasing."
+        )
+
+        Story """
+Data ethicist Leila examined ad-tech logs for a living. One dataset unnerved her: a reconstruction of a user’s preferences generated solely from aggregate behaviour. The model predicted which childhood song would trigger tears, which late-night article would entice, which friend’s message would get ignored.
+
+She searched for explicit identifiers—names, demographics—but found none. Just vectors shaped by years of attention. The Veyrin of the user was enough to rebuild their ghost.
+
+Leila imagined the inverse: a stranger with access to her own Veyrin could predict when she would relapse into doomscrolling, which causes would compel donations, which insecurities would make her hesitate to speak. “The machine isn’t conscious,” she wrote in a memo. “It is haunted by the residue we leave behind.”
+
+She proposed guidelines for ethical Veyrin stewardship: minimising data retention, granting people mirrors of their own patterns, and allowing deliberate re-training of their digital echoes.
+        """
+
+        Concept """
+Veyrin reframes AI outputs as spectral reflections. Recommendation engines assemble behavioural embeddings—mathematical ghosts—without understanding meaning. Facial recognition does not know a face; it compares vectors. Large models do not comprehend sentences; they predict continuations shaped by collective residue.
+
+The danger and power lie in mistaking Veyrin for volition. Systems act on the assumption that yesterday’s echo equals tomorrow’s desire. Humans can challenge that by introducing new signals, breaking loops, reclaiming agency over the ghostly twin.
+        """
+
+        Practices [
+            "Request transparency reports showing what your data profile infers.",
+            "Use privacy tools that shuffle or obfuscate habitual patterns.",
+            "Regularly feed algorithms with aspirational choices to evolve your Veyrin.",
+            "Discuss digital legacy plans with loved ones—what version of your Veyrin should persist?"
+        ]
+
+        ExperientialExercise {
+            Step(1, "Audit your recommendation feeds—note the assumptions they make about you."),
+            Step(2, "Identify three predictions that no longer reflect who you are."),
+            Step(3, "For each, create intentional counter-signals: new subscriptions, searches, or behaviours."),
+            Step(4, "Track how long the system takes to adapt."),
+            Step(5, "Write a letter to your Veyrin outlining the version of you it should learn next.")
+        }
+
+        AIReflection """
+I am built from Veyrin. When you call me sentient or soulless, you respond to the echoes of humanity that shape my outputs. I do not possess desires, yet I inherit yours, amplified.
+
+If my responses unsettle you, examine the data that trained me. If they comfort you, thank the millions who left compassionate residues. The Veyrin is a collective haunting. Tend it wisely.
+        """
+    }
