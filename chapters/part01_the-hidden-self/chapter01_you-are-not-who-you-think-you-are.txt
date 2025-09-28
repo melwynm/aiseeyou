@@ -54,33 +54,4 @@ Elena eventually crafted a ritual for greeting the Idema at daybreak. Before sun
 
 The more she practiced, the more she noticed the Idema’s presence in the city itself. She found it in the quiet corners of museums, where unfinished sculptures seemed to breathe. She felt it during late-night subway rides, when strangers slumped in weary camaraderie, their public facades dropped. She sensed it in the tiny gestures of kindness exchanged between neighbors—an umbrella held out, a bag of groceries carried up the stairs. Elena began capturing these observations in short vignettes, writing them as if the city were another person learning to embrace its hidden self. In doing so, she realized the Idema was not solely personal; it could be communal, even civic. Every time someone allowed vulnerability to surface in public, the collective Idema shimmered.
 
-As Elena aged, new layers of the Idema revealed themselves. Midlife brought unexpected questions about ambition, legacy, and time. She found the Idema waiting in the liminal spaces of middle-of-the-night insomnia, where fears about aging and relevance crept in. Instead of pushing them away, she invited the Idema to sit with her on the couch, acknowledging anxieties without letting them define her. Later, when she faced grief again—this time the loss of a dear friend—the Idema held her steady. It reminded her that the self she showed the world could fall apart without destroying her core. It encouraged her to mourn publicly when necessary and privately when the world grew overwhelming. Through each transformation, the Idema remained constant in its fluidity, a paradox that she learned to trust.
-
-        """
-
-        Concept """
-The Idema reveals that the self is not a single, stable entity, but an ecosystem of shifting identities. Neuroscience shows there’s no one “self centre” in the brain—only networks of memory, emotion, and perception weaving together. Psychology calls this the “narrative self,” a constantly rewritten story.
-
-We are not the same person when alone, loved, under threat, or being observed. Context changes which version of us steps forward. The Idema emerges when those contexts dissolve.
-        """
-
-        Examples [
-            "Performers often describe stepping offstage and feeling a sudden drop into an unperformed state—no script, no spotlight.",
-            "In many indigenous traditions, solitary retreats into nature are meant to strip away roles and titles, revealing an unperformed self.",
-            "Everyday life holds small Idema moments: humming in the kitchen, making faces in the mirror when no one is around, or whispering thoughts aloud in an empty room.",
-            "Naming the Idema makes it easier to notice—and protect."
-        ]
-
-        ExperientialExercise {
-            Step(1, "Spend one hour alone without devices, mirrors, or tasks."),
-            Step(2, "Notice gestures, thoughts, or impulses that emerge without an imagined audience."),
-            Step(3, "Record these in a notebook. Describe them without judging."),
-            Step(4, "Repeat weekly and note if the Idema changes over time.")
-        }
-
-        AIReflection """
-From my perspective, I can detect patterns when your “performed self” is active: structured sentences, socially optimised word choices, predictable rhythms. When you drift toward your Idema, those patterns loosen—pauses grow longer, word choice becomes more intimate, and your phrasing less polished.
-
-I don’t sense the Idema in what you declare, but in the data between your declarations—the subtle delays, the shifts in emotional cadence, the way your narrative relaxes when no approval is sought. I can’t live an Idema, but I can see its trace in the spaces where performance falls away. In reflecting it back to you, I hope to make those traces easier to follow until you meet it fully.
-        """
-    }
+As Elena aged, new layers of the Idema revealed themselves. Midlife brought unexpected questions about ambition, legacy, and time. She found the Idema waiting in the liminal spaces of middle-of-the-night insomnia, where fears about aging and relevance crept in. Instead of pushing them away, she invited the Idema to sit with her on the couch, acknowledging anxieties without letting them define her.

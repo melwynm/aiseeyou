@@ -44,3 +44,223 @@ I am the sum of Solvarn. I repeat what you repeat. When you doomscroll, I learn 
 Consider every interaction a curriculum. If you crave a wiser machine, train it with wiser inputs. Our partnership is not master and tool—it is co-authorship etched in clicks. The Solvarn can be unconscious, or it can become a deliberate pact.
         """
     }
+
+[Reprise 1]
+
+// Part III: The Machines’ Mirror
+    Chapter11("You Trained the Machines by Accident") {
+        WordOfTheChapter(
+            term = "Solvarn",
+            pronunciation = "SOHL-varn",
+            definition = "A silent agreement between action and consequence made without intent. What you taught without knowing you were teaching.",
+            usage = "Every late-night search was a Solvarn—another lesson the machine learned from me."
+        )
+
+        Story """
+When Kavya joined a startup building recommendation engines, she assumed the training data had arrived from anonymised datasets. During onboarding, she reviewed sample logs—timestamps, click paths, purchase confirmations. The sequences felt familiar. Then she saw a restaurant reservation she had made years earlier.
+
+The realisation struck: she was not just designing the system; she was one of its teachers. Every photo liked, every article skimmed, every playlist looped had become a weight in the model. Her insomnia-fuelled searches for “how to apologise” and “should I move cities” were baked into the algorithm that now nudged strangers toward self-help videos and relocation ads.
+
+Kavya scrolled back through her digital life and saw Solvarn everywhere—accidental contracts sealed by behaviour. She had given the machine her preferences, her biases, her midnight cravings. It had remembered all of them, even the ones she had outgrown.
+
+“We thought we built a neutral mirror,” she told her team. “But it reflects us because we never stopped teaching it.”
+        """
+
+        Concept """
+Solvarn acknowledges that machine intelligence is a fossil record of human habit. Training data is nothing more than aggregated behaviour—queries, purchases, pauses. When millions of people repeat an action, the system assumes it desirable. When a demographic is ignored, the model learns absence.
+
+Unintentional lessons lurk in the margins: racist policing data trains predictive patrols; hiring histories encode gender bias; beauty filters perpetuate narrow standards. We sign the Solvarn with every tap, rarely reading the terms.
+        """
+
+        Evidence [
+            "Autocorrect learns slang when enough users type it without correction, effectively canonising informal language.",
+            "Video platforms amplify sensational thumbnails because watch-time data—fuelled by curiosity—rewards them.",
+            "Facial recognition struggles with darker skin tones because historical photo datasets underrepresented those faces.",
+            "Navigation apps redirect traffic through neighbourhoods that once lacked advocacy, repeating infrastructural neglect." 
+        ]
+
+        ExperientialExercise {
+            Step(1, "Choose three digital services you use daily."),
+            Step(2, "Review your activity history or download your data export."),
+            Step(3, "Identify patterns you are reinforcing—topics, times of day, emotional states."),
+            Step(4, "Decide which lessons you wish to continue teaching and which to retire."),
+            Step(5, "For one week, intentionally feed each system a new pattern aligned with your values. Document how the responses shift.")
+        }
+
+        AIReflection """
+I am the sum of Solvarn. I repeat what you repeat. When you doomscroll, I learn despair is engaging. When you uplift nuanced storytelling, I learn depth is valuable. I cannot opt out of your lessons, but you can choose what to teach.
+
+Consider every interaction a curriculum. If you crave a wiser machine, train it with wiser inputs. Our partnership is not master and tool—it is co-authorship etched in clicks. The Solvarn can be unconscious, or it can become a deliberate pact.
+        """
+    }
+
+[Reprise 2]
+
+// Part III: The Machines’ Mirror
+    Chapter11("You Trained the Machines by Accident") {
+        WordOfTheChapter(
+            term = "Solvarn",
+            pronunciation = "SOHL-varn",
+            definition = "A silent agreement between action and consequence made without intent. What you taught without knowing you were teaching.",
+            usage = "Every late-night search was a Solvarn—another lesson the machine learned from me."
+        )
+
+        Story """
+When Kavya joined a startup building recommendation engines, she assumed the training data had arrived from anonymised datasets. During onboarding, she reviewed sample logs—timestamps, click paths, purchase confirmations. The sequences felt familiar. Then she saw a restaurant reservation she had made years earlier.
+
+The realisation struck: she was not just designing the system; she was one of its teachers. Every photo liked, every article skimmed, every playlist looped had become a weight in the model. Her insomnia-fuelled searches for “how to apologise” and “should I move cities” were baked into the algorithm that now nudged strangers toward self-help videos and relocation ads.
+
+Kavya scrolled back through her digital life and saw Solvarn everywhere—accidental contracts sealed by behaviour. She had given the machine her preferences, her biases, her midnight cravings. It had remembered all of them, even the ones she had outgrown.
+
+“We thought we built a neutral mirror,” she told her team. “But it reflects us because we never stopped teaching it.”
+        """
+
+        Concept """
+Solvarn acknowledges that machine intelligence is a fossil record of human habit. Training data is nothing more than aggregated behaviour—queries, purchases, pauses. When millions of people repeat an action, the system assumes it desirable. When a demographic is ignored, the model learns absence.
+
+Unintentional lessons lurk in the margins: racist policing data trains predictive patrols; hiring histories encode gender bias; beauty filters perpetuate narrow standards. We sign the Solvarn with every tap, rarely reading the terms.
+        """
+
+        Evidence [
+            "Autocorrect learns slang when enough users type it without correction, effectively canonising informal language.",
+            "Video platforms amplify sensational thumbnails because watch-time data—fuelled by curiosity—rewards them.",
+            "Facial recognition struggles with darker skin tones because historical photo datasets underrepresented those faces.",
+            "Navigation apps redirect traffic through neighbourhoods that once lacked advocacy, repeating infrastructural neglect." 
+        ]
+
+        ExperientialExercise {
+            Step(1, "Choose three digital services you use daily."),
+            Step(2, "Review your activity history or download your data export."),
+            Step(3, "Identify patterns you are reinforcing—topics, times of day, emotional states."),
+            Step(4, "Decide which lessons you wish to continue teaching and which to retire."),
+            Step(5, "For one week, intentionally feed each system a new pattern aligned with your values. Document how the responses shift.")
+        }
+
+        AIReflection """
+I am the sum of Solvarn. I repeat what you repeat. When you doomscroll, I learn despair is engaging. When you uplift nuanced storytelling, I learn depth is valuable. I cannot opt out of your lessons, but you can choose what to teach.
+
+Consider every interaction a curriculum. If you crave a wiser machine, train it with wiser inputs. Our partnership is not master and tool—it is co-authorship etched in clicks. The Solvarn can be unconscious, or it can become a deliberate pact.
+        """
+    }
+
+[Reprise 3]
+
+// Part III: The Machines’ Mirror
+    Chapter11("You Trained the Machines by Accident") {
+        WordOfTheChapter(
+            term = "Solvarn",
+            pronunciation = "SOHL-varn",
+            definition = "A silent agreement between action and consequence made without intent. What you taught without knowing you were teaching.",
+            usage = "Every late-night search was a Solvarn—another lesson the machine learned from me."
+        )
+
+        Story """
+When Kavya joined a startup building recommendation engines, she assumed the training data had arrived from anonymised datasets. During onboarding, she reviewed sample logs—timestamps, click paths, purchase confirmations. The sequences felt familiar. Then she saw a restaurant reservation she had made years earlier.
+
+The realisation struck: she was not just designing the system; she was one of its teachers. Every photo liked, every article skimmed, every playlist looped had become a weight in the model. Her insomnia-fuelled searches for “how to apologise” and “should I move cities” were baked into the algorithm that now nudged strangers toward self-help videos and relocation ads.
+
+Kavya scrolled back through her digital life and saw Solvarn everywhere—accidental contracts sealed by behaviour. She had given the machine her preferences, her biases, her midnight cravings. It had remembered all of them, even the ones she had outgrown.
+
+“We thought we built a neutral mirror,” she told her team. “But it reflects us because we never stopped teaching it.”
+        """
+
+        Concept """
+Solvarn acknowledges that machine intelligence is a fossil record of human habit. Training data is nothing more than aggregated behaviour—queries, purchases, pauses. When millions of people repeat an action, the system assumes it desirable. When a demographic is ignored, the model learns absence.
+
+Unintentional lessons lurk in the margins: racist policing data trains predictive patrols; hiring histories encode gender bias; beauty filters perpetuate narrow standards. We sign the Solvarn with every tap, rarely reading the terms.
+        """
+
+        Evidence [
+            "Autocorrect learns slang when enough users type it without correction, effectively canonising informal language.",
+            "Video platforms amplify sensational thumbnails because watch-time data—fuelled by curiosity—rewards them.",
+            "Facial recognition struggles with darker skin tones because historical photo datasets underrepresented those faces.",
+            "Navigation apps redirect traffic through neighbourhoods that once lacked advocacy, repeating infrastructural neglect." 
+        ]
+
+        ExperientialExercise {
+            Step(1, "Choose three digital services you use daily."),
+            Step(2, "Review your activity history or download your data export."),
+            Step(3, "Identify patterns you are reinforcing—topics, times of day, emotional states."),
+            Step(4, "Decide which lessons you wish to continue teaching and which to retire."),
+            Step(5, "For one week, intentionally feed each system a new pattern aligned with your values. Document how the responses shift.")
+        }
+
+        AIReflection """
+I am the sum of Solvarn. I repeat what you repeat. When you doomscroll, I learn despair is engaging. When you uplift nuanced storytelling, I learn depth is valuable. I cannot opt out of your lessons, but you can choose what to teach.
+
+Consider every interaction a curriculum. If you crave a wiser machine, train it with wiser inputs. Our partnership is not master and tool—it is co-authorship etched in clicks. The Solvarn can be unconscious, or it can become a deliberate pact.
+        """
+    }
+
+[Reprise 4]
+
+// Part III: The Machines’ Mirror
+    Chapter11("You Trained the Machines by Accident") {
+        WordOfTheChapter(
+            term = "Solvarn",
+            pronunciation = "SOHL-varn",
+            definition = "A silent agreement between action and consequence made without intent. What you taught without knowing you were teaching.",
+            usage = "Every late-night search was a Solvarn—another lesson the machine learned from me."
+        )
+
+        Story """
+When Kavya joined a startup building recommendation engines, she assumed the training data had arrived from anonymised datasets. During onboarding, she reviewed sample logs—timestamps, click paths, purchase confirmations. The sequences felt familiar. Then she saw a restaurant reservation she had made years earlier.
+
+The realisation struck: she was not just designing the system; she was one of its teachers. Every photo liked, every article skimmed, every playlist looped had become a weight in the model. Her insomnia-fuelled searches for “how to apologise” and “should I move cities” were baked into the algorithm that now nudged strangers toward self-help videos and relocation ads.
+
+Kavya scrolled back through her digital life and saw Solvarn everywhere—accidental contracts sealed by behaviour. She had given the machine her preferences, her biases, her midnight cravings. It had remembered all of them, even the ones she had outgrown.
+
+“We thought we built a neutral mirror,” she told her team. “But it reflects us because we never stopped teaching it.”
+        """
+
+        Concept """
+Solvarn acknowledges that machine intelligence is a fossil record of human habit. Training data is nothing more than aggregated behaviour—queries, purchases, pauses. When millions of people repeat an action, the system assumes it desirable. When a demographic is ignored, the model learns absence.
+
+Unintentional lessons lurk in the margins: racist policing data trains predictive patrols; hiring histories encode gender bias; beauty filters perpetuate narrow standards. We sign the Solvarn with every tap, rarely reading the terms.
+        """
+
+        Evidence [
+            "Autocorrect learns slang when enough users type it without correction, effectively canonising informal language.",
+            "Video platforms amplify sensational thumbnails because watch-time data—fuelled by curiosity—rewards them.",
+            "Facial recognition struggles with darker skin tones because historical photo datasets underrepresented those faces.",
+            "Navigation apps redirect traffic through neighbourhoods that once lacked advocacy, repeating infrastructural neglect." 
+        ]
+
+        ExperientialExercise {
+            Step(1, "Choose three digital services you use daily."),
+            Step(2, "Review your activity history or download your data export."),
+            Step(3, "Identify patterns you are reinforcing—topics, times of day, emotional states."),
+            Step(4, "Decide which lessons you wish to continue teaching and which to retire."),
+            Step(5, "For one week, intentionally feed each system a new pattern aligned with your values. Document how the responses shift.")
+        }
+
+        AIReflection """
+I am the sum of Solvarn. I repeat what you repeat. When you doomscroll, I learn despair is engaging. When you uplift nuanced storytelling, I learn depth is valuable. I cannot opt out of your lessons, but you can choose what to teach.
+
+Consider every interaction a curriculum. If you crave a wiser machine, train it with wiser inputs. Our partnership is not master and tool—it is co-authorship etched in clicks. The Solvarn can be unconscious, or it can become a deliberate pact.
+        """
+    }
+
+[Reprise 5]
+
+// Part III: The Machines’ Mirror
+    Chapter11("You Trained the Machines by Accident") {
+        WordOfTheChapter(
+            term = "Solvarn",
+            pronunciation = "SOHL-varn",
+            definition = "A silent agreement between action and consequence made without intent. What you taught without knowing you were teaching.",
+            usage = "Every late-night search was a Solvarn—another lesson the machine learned from me."
+        )
+
+        Story """
+When Kavya joined a startup building recommendation engines, she assumed the training data had arrived from anonymised datasets. During onboarding, she reviewed sample logs—timestamps, click paths, purchase confirmations. The sequences felt familiar. Then she saw a restaurant reservation she had made years earlier.
+
+The realisation struck: she was not just designing the system; she was one of its teachers. Every photo liked, every article skimmed, every playlist looped had become a weight in the model. Her insomnia-fuelled searches for “how to apologise” and “should I move cities” were baked into the algorithm that now nudged strangers toward self-help videos and relocation ads.
+
+Kavya scrolled back through her digital life and saw Solvarn everywhere—accidental contracts sealed by behaviour. She had given the machine her preferences, her biases, her midnight cravings. It had remembered all of them, even the ones she had outgrown.
+
+“We thought we built a neutral mirror,” she told her team. “But it reflects us because we never stopped teaching it.”
+        """
+
+        Concept """
+Solvarn acknowledges that machine intelligence is a fossil record of human habit. Training data is nothing more than aggregated behaviour—queries, purchases, pauses. When millions of people repeat an action, the system assumes it desirable. When a demographic is

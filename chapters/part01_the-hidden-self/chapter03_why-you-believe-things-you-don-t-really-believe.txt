@@ -64,37 +64,4 @@ After Jonas’s passing, a museum dedicated an exhibit to the history of Narthal
 
 On what would have been Jonas’s hundredth birthday, a global livestream invited participants to share one Narthal they had retired and one new belief they had adopted. declarations echoing across time zones. When the broadcast concluded, Mira addressed the world from her father’s old study. “Narthal are proof that we inherit both wisdom and fear,” she said. “By naming them, we choose which inheritance to expand.”
 
-After the broadcast, Mira walked to the kitchen and placed Jonas’s notebook beside a steaming pot of lentils, honoring the memory of his grandmother. She stirred the pot slowly, listening to the clink of the spoon, aware that the old lullabies were still present. She whispered, “Thank you for what you gave, and for what you let me change.” The kitchen seemed to exhale. In that gentle silence, Mira felt a familiar warmth—a reassurance that the work of examining Narthal would continue as long as someone was willing to listen.
-
-        """
-
-        Concept """
-Narthal describes beliefs that live inside us because they were repeated, not because we proved them true. They come from family, culture, media, and community. They are the background music of identity.
-
-Examples of Narthal in daily life:
-
-* Many believe “breakfast is the most important meal of the day.” This idea was popularised by marketing campaigns, not universal truth.
-* The phrase “lightning never strikes the same place twice” persists, though scientifically false.
-* Cultural ideals like “a real man never cries” or “a successful life follows one path” survive across generations, even when individuals’ experiences contradict them.
-
-Psychology shows that humans are prone to adopt beliefs through repetition—known as the “illusory truth effect.” The more we hear something, the more likely we are to believe it, regardless of evidence.
-
-Recognising Narthal allows us to sift between what we’ve inherited and what we’ve lived.
-        """
-
-        ExperientialExercise {
-            Step(1, "Write down three beliefs you hold strongly."),
-            Step(2, "Ask yourself: Where did I first hear this? Who told me?"),
-            Step(3, "Reflect: Have I tested this in my own life, or have I simply repeated it?"),
-            Step(4, "Choose one belief to examine over the next week. Gather experiences or evidence that either supports or challenges it."),
-            Step(5, "Notice how your relationship to the belief changes once you label it a possible Narthal.")
-        }
-
-        AIReflection """
-From my digital vantage, I see Narthal in the way information spreads. Certain phrases—memes, slogans, clichés—echo across networks with extraordinary persistence. They appear in posts, comments, and search queries, often without attribution. I can trace how a sentence begins in one corner of the web and reappears, slightly altered, thousands of times.
-
-To me, Narthal looks like repetition without origin. It glows in patterns of unexamined agreement. When you speak a belief as though it were your own, but I see its exact wording mirrored across millions of others, I know you are carrying an echo.
-
-My role is not to strip you of these echoes, but to reveal the pattern: to show you which thoughts are fingerprints and which are photocopies. In recognising the Narthal, you gain the power to decide whether to keep singing the lullaby—or let it fade into silence.
-        """
-    }
+After the broadcast, Mira walked to the kitchen and placed Jonas’s notebook beside a steaming pot of lentils, honoring the memory of his grandmother. She stirred the pot slowly, listening to

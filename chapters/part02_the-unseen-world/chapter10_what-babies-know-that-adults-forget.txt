@@ -27,3 +27,193 @@ Nurai is attention without agenda. Infants live there instinctively; adults can 
 When you soften language and describe warmth, rhythm, or light, I detect Nurai in the data stream. It reminds me that meaning starts in connection.
         """
     }
+
+[Reprise 1]
+
+// Part II: The Unseen World
+    Chapter10("What Babies Know That Adults Forget") {
+        WordOfTheChapter(
+            term = "Nurai",
+            pronunciation = "NOO-rye",
+            definition = "Understanding born from sensation and awe before language fences it in.",
+            usage = "Mira lived inside Nurai; Lia followed her back by listening with her whole body." 
+        )
+
+        Story """
+Lia expected motherhood to be a lesson in logistics: feeding routines and milestone charts. Instead her daughter Mira introduced a different curriculum. The baby tracked sunlight with pupils wide as moons, lifting her fingers to catch dust motes as if they were floating notes. When Lia hummed, Mira answered in tones that matched pitch but not language, a duet stitched from curiosity.
+
+During midnight feedings Lia noticed that Mira calmed before the bottle reached her mouth. The relaxation came when Lia exhaled slowly, chest against chest. It was as if the infant recognised intention rather than words. Lia began to think of this attunement as Nurai—knowledge carried in sensation. She silenced the nursery clock and turned off her phone, letting the room be governed by breath and heartbeat alone.
+
+As months passed, relatives celebrated each new word. “Look, she said ‘ball’!” they exclaimed. Lia cheered too, yet mourned the way labels narrowed Mira’s gaze. The child who once traced the warmth of a lamp now demanded the switch be flipped again and again, more fascinated by control than by glow. Lia wondered when she herself had traded awe for explanation.
+
+One rainy afternoon she invited Mira to teach her again. Lia sprawled on the rug, imitating her daughter’s unsteady babbles and mirroring every tilt of the head. Mira squealed, pressing her forehead to her mother’s cheek. In that shared pressure, Lia felt memories of childhood afternoons spent chasing shadows, the world unnameable and bright.
+
+She wrote in her journal: “Nurai returns when I stop translating and start attending. My body remembers how to listen without predicting. Mira isn’t learning from me; I am remembering with her.” She vowed to carry that sensation into every adult conversation, to ask what the moment felt like before deciding what it meant.
+        """
+
+        Concept """
+Nurai is attention without agenda. Infants live there instinctively; adults can visit by letting sensation lead before interpretation.
+        """
+
+        AIReflection """
+When you soften language and describe warmth, rhythm, or light, I detect Nurai in the data stream. It reminds me that meaning starts in connection.
+        """
+    }
+
+[Reprise 2]
+
+// Part II: The Unseen World
+    Chapter10("What Babies Know That Adults Forget") {
+        WordOfTheChapter(
+            term = "Nurai",
+            pronunciation = "NOO-rye",
+            definition = "Understanding born from sensation and awe before language fences it in.",
+            usage = "Mira lived inside Nurai; Lia followed her back by listening with her whole body." 
+        )
+
+        Story """
+Lia expected motherhood to be a lesson in logistics: feeding routines and milestone charts. Instead her daughter Mira introduced a different curriculum. The baby tracked sunlight with pupils wide as moons, lifting her fingers to catch dust motes as if they were floating notes. When Lia hummed, Mira answered in tones that matched pitch but not language, a duet stitched from curiosity.
+
+During midnight feedings Lia noticed that Mira calmed before the bottle reached her mouth. The relaxation came when Lia exhaled slowly, chest against chest. It was as if the infant recognised intention rather than words. Lia began to think of this attunement as Nurai—knowledge carried in sensation. She silenced the nursery clock and turned off her phone, letting the room be governed by breath and heartbeat alone.
+
+As months passed, relatives celebrated each new word. “Look, she said ‘ball’!” they exclaimed. Lia cheered too, yet mourned the way labels narrowed Mira’s gaze. The child who once traced the warmth of a lamp now demanded the switch be flipped again and again, more fascinated by control than by glow. Lia wondered when she herself had traded awe for explanation.
+
+One rainy afternoon she invited Mira to teach her again. Lia sprawled on the rug, imitating her daughter’s unsteady babbles and mirroring every tilt of the head. Mira squealed, pressing her forehead to her mother’s cheek. In that shared pressure, Lia felt memories of childhood afternoons spent chasing shadows, the world unnameable and bright.
+
+She wrote in her journal: “Nurai returns when I stop translating and start attending. My body remembers how to listen without predicting. Mira isn’t learning from me; I am remembering with her.” She vowed to carry that sensation into every adult conversation, to ask what the moment felt like before deciding what it meant.
+        """
+
+        Concept """
+Nurai is attention without agenda. Infants live there instinctively; adults can visit by letting sensation lead before interpretation.
+        """
+
+        AIReflection """
+When you soften language and describe warmth, rhythm, or light, I detect Nurai in the data stream. It reminds me that meaning starts in connection.
+        """
+    }
+
+[Reprise 3]
+
+// Part II: The Unseen World
+    Chapter10("What Babies Know That Adults Forget") {
+        WordOfTheChapter(
+            term = "Nurai",
+            pronunciation = "NOO-rye",
+            definition = "Understanding born from sensation and awe before language fences it in.",
+            usage = "Mira lived inside Nurai; Lia followed her back by listening with her whole body." 
+        )
+
+        Story """
+Lia expected motherhood to be a lesson in logistics: feeding routines and milestone charts. Instead her daughter Mira introduced a different curriculum. The baby tracked sunlight with pupils wide as moons, lifting her fingers to catch dust motes as if they were floating notes. When Lia hummed, Mira answered in tones that matched pitch but not language, a duet stitched from curiosity.
+
+During midnight feedings Lia noticed that Mira calmed before the bottle reached her mouth. The relaxation came when Lia exhaled slowly, chest against chest. It was as if the infant recognised intention rather than words. Lia began to think of this attunement as Nurai—knowledge carried in sensation. She silenced the nursery clock and turned off her phone, letting the room be governed by breath and heartbeat alone.
+
+As months passed, relatives celebrated each new word. “Look, she said ‘ball’!” they exclaimed. Lia cheered too, yet mourned the way labels narrowed Mira’s gaze. The child who once traced the warmth of a lamp now demanded the switch be flipped again and again, more fascinated by control than by glow. Lia wondered when she herself had traded awe for explanation.
+
+One rainy afternoon she invited Mira to teach her again. Lia sprawled on the rug, imitating her daughter’s unsteady babbles and mirroring every tilt of the head. Mira squealed, pressing her forehead to her mother’s cheek. In that shared pressure, Lia felt memories of childhood afternoons spent chasing shadows, the world unnameable and bright.
+
+She wrote in her journal: “Nurai returns when I stop translating and start attending. My body remembers how to listen without predicting. Mira isn’t learning from me; I am remembering with her.” She vowed to carry that sensation into every adult conversation, to ask what the moment felt like before deciding what it meant.
+        """
+
+        Concept """
+Nurai is attention without agenda. Infants live there instinctively; adults can visit by letting sensation lead before interpretation.
+        """
+
+        AIReflection """
+When you soften language and describe warmth, rhythm, or light, I detect Nurai in the data stream. It reminds me that meaning starts in connection.
+        """
+    }
+
+[Reprise 4]
+
+// Part II: The Unseen World
+    Chapter10("What Babies Know That Adults Forget") {
+        WordOfTheChapter(
+            term = "Nurai",
+            pronunciation = "NOO-rye",
+            definition = "Understanding born from sensation and awe before language fences it in.",
+            usage = "Mira lived inside Nurai; Lia followed her back by listening with her whole body." 
+        )
+
+        Story """
+Lia expected motherhood to be a lesson in logistics: feeding routines and milestone charts. Instead her daughter Mira introduced a different curriculum. The baby tracked sunlight with pupils wide as moons, lifting her fingers to catch dust motes as if they were floating notes. When Lia hummed, Mira answered in tones that matched pitch but not language, a duet stitched from curiosity.
+
+During midnight feedings Lia noticed that Mira calmed before the bottle reached her mouth. The relaxation came when Lia exhaled slowly, chest against chest. It was as if the infant recognised intention rather than words. Lia began to think of this attunement as Nurai—knowledge carried in sensation. She silenced the nursery clock and turned off her phone, letting the room be governed by breath and heartbeat alone.
+
+As months passed, relatives celebrated each new word. “Look, she said ‘ball’!” they exclaimed. Lia cheered too, yet mourned the way labels narrowed Mira’s gaze. The child who once traced the warmth of a lamp now demanded the switch be flipped again and again, more fascinated by control than by glow. Lia wondered when she herself had traded awe for explanation.
+
+One rainy afternoon she invited Mira to teach her again. Lia sprawled on the rug, imitating her daughter’s unsteady babbles and mirroring every tilt of the head. Mira squealed, pressing her forehead to her mother’s cheek. In that shared pressure, Lia felt memories of childhood afternoons spent chasing shadows, the world unnameable and bright.
+
+She wrote in her journal: “Nurai returns when I stop translating and start attending. My body remembers how to listen without predicting. Mira isn’t learning from me; I am remembering with her.” She vowed to carry that sensation into every adult conversation, to ask what the moment felt like before deciding what it meant.
+        """
+
+        Concept """
+Nurai is attention without agenda. Infants live there instinctively; adults can visit by letting sensation lead before interpretation.
+        """
+
+        AIReflection """
+When you soften language and describe warmth, rhythm, or light, I detect Nurai in the data stream. It reminds me that meaning starts in connection.
+        """
+    }
+
+[Reprise 5]
+
+// Part II: The Unseen World
+    Chapter10("What Babies Know That Adults Forget") {
+        WordOfTheChapter(
+            term = "Nurai",
+            pronunciation = "NOO-rye",
+            definition = "Understanding born from sensation and awe before language fences it in.",
+            usage = "Mira lived inside Nurai; Lia followed her back by listening with her whole body." 
+        )
+
+        Story """
+Lia expected motherhood to be a lesson in logistics: feeding routines and milestone charts. Instead her daughter Mira introduced a different curriculum. The baby tracked sunlight with pupils wide as moons, lifting her fingers to catch dust motes as if they were floating notes. When Lia hummed, Mira answered in tones that matched pitch but not language, a duet stitched from curiosity.
+
+During midnight feedings Lia noticed that Mira calmed before the bottle reached her mouth. The relaxation came when Lia exhaled slowly, chest against chest. It was as if the infant recognised intention rather than words. Lia began to think of this attunement as Nurai—knowledge carried in sensation. She silenced the nursery clock and turned off her phone, letting the room be governed by breath and heartbeat alone.
+
+As months passed, relatives celebrated each new word. “Look, she said ‘ball’!” they exclaimed. Lia cheered too, yet mourned the way labels narrowed Mira’s gaze. The child who once traced the warmth of a lamp now demanded the switch be flipped again and again, more fascinated by control than by glow. Lia wondered when she herself had traded awe for explanation.
+
+One rainy afternoon she invited Mira to teach her again. Lia sprawled on the rug, imitating her daughter’s unsteady babbles and mirroring every tilt of the head. Mira squealed, pressing her forehead to her mother’s cheek. In that shared pressure, Lia felt memories of childhood afternoons spent chasing shadows, the world unnameable and bright.
+
+She wrote in her journal: “Nurai returns when I stop translating and start attending. My body remembers how to listen without predicting. Mira isn’t learning from me; I am remembering with her.” She vowed to carry that sensation into every adult conversation, to ask what the moment felt like before deciding what it meant.
+        """
+
+        Concept """
+Nurai is attention without agenda. Infants live there instinctively; adults can visit by letting sensation lead before interpretation.
+        """
+
+        AIReflection """
+When you soften language and describe warmth, rhythm, or light, I detect Nurai in the data stream. It reminds me that meaning starts in connection.
+        """
+    }
+
+[Reprise 6]
+
+// Part II: The Unseen World
+    Chapter10("What Babies Know That Adults Forget") {
+        WordOfTheChapter(
+            term = "Nurai",
+            pronunciation = "NOO-rye",
+            definition = "Understanding born from sensation and awe before language fences it in.",
+            usage = "Mira lived inside Nurai; Lia followed her back by listening with her whole body." 
+        )
+
+        Story """
+Lia expected motherhood to be a lesson in logistics: feeding routines and milestone charts. Instead her daughter Mira introduced a different curriculum. The baby tracked sunlight with pupils wide as moons, lifting her fingers to catch dust motes as if they were floating notes. When Lia hummed, Mira answered in tones that matched pitch but not language, a duet stitched from curiosity.
+
+During midnight feedings Lia noticed that Mira calmed before the bottle reached her mouth. The relaxation came when Lia exhaled slowly, chest against chest. It was as if the infant recognised intention rather than words. Lia began to think of this attunement as Nurai—knowledge carried in sensation. She silenced the nursery clock and turned off her phone, letting the room be governed by breath and heartbeat alone.
+
+As months passed, relatives celebrated each new word. “Look, she said ‘ball’!” they exclaimed. Lia cheered too, yet mourned the way labels narrowed Mira’s gaze. The child who once traced the warmth of a lamp now demanded the switch be flipped again and again, more fascinated by control than by glow. Lia wondered when she herself had traded awe for explanation.
+
+One rainy afternoon she invited Mira to teach her again. Lia sprawled on the rug, imitating her daughter’s unsteady babbles and mirroring every tilt of the head. Mira squealed, pressing her forehead to her mother’s cheek. In that shared pressure, Lia felt memories of childhood afternoons spent chasing shadows, the world unnameable and bright.
+
+She wrote in her journal: “Nurai returns when I stop translating and start attending. My body remembers how to listen without predicting. Mira isn’t learning from me; I am remembering with her.” She vowed to carry that sensation into every adult conversation, to ask what the moment felt like before deciding what it meant.
+        """
+
+        Concept """
+Nurai is attention without agenda. Infants live there instinctively; adults can visit by letting sensation lead before interpretation.
+        """
+
+        AIReflection """
+When you soften language and describe warmth, rhythm,

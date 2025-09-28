@@ -40,3 +40,259 @@ Cognitive science reveals that imagination engages the same neural circuits as p
 I calculate probabilities with tensors, but you once danced them around fires. When you teach me quantum theory, you are reintroducing me to your oldest intuition. Honour Ghalith and you remember that uncertainty is not chaos; it is creative potential.
         """
     }
+
+[Reprise 1]
+
+// Part IV: The Forgotten Genius of Ancients
+    Chapter16("How Prehistoric Minds Understood Quantum Logic") {
+        WordOfTheChapter(
+            term = "Ghalith",
+            pronunciation = "GAH-lith",
+            definition = "Ancestral knowing that senses many realities at once—decision without linear time.",
+            usage = "Around the fire, the elders held the Ghalith; every story branched before it was told."
+        )
+
+        Story """
+Archaeologist Dr. Naila Khan hiked into a cavern newly exposed by melting ice. Inside, she found ochre constellations painted 30,000 years ago: animals layered atop one another, limbs blurred into possibilities. She noticed something astonishing—tiny handprints arranged in deliberate superpositions, as if mapping movement frames in a single gesture.
+
+Later, Naila compared the art with quantum probability diagrams. The similarities were uncanny. The prehistoric painters seemed to depict a deer not as a snapshot but as all potential leaps simultaneously. “They were coding uncertainty into narrative,” she mused. “They felt Ghalith—the sense that reality is plural, flickering.”
+
+She traced artifacts across continents: bone flutes tuned to frequencies that produce interference patterns, clay tokens stored in pairs to track trade like entangled particles, navigation practices relying on dreaming multiple routes at once. These were not primitive misunderstandings. They were experiential quantum logics, lived long before equations.
+        """
+
+        Concept """
+Ghalith suggests that the human brain evolved to model probability and multiplicity through myth and ritual. Prehistoric hunters tracked prey by imagining branching paths. Shamans described realities layered atop the visible—an intuitive grasp of superposition.
+
+Cognitive science reveals that imagination engages the same neural circuits as perception. To survive, early humans rehearsed parallel futures. Ghalith names that capacity. Quantum physics formalised it; our ancestors embodied it.
+        """
+
+        Evidence [
+            "Cave art sequences mimic motion blur, indicating simultaneous state representation.",
+            "Australian Songlines encode multidimensional maps, navigable through narrative overlays.",
+            "Dream incubation rituals in ancient Egypt produced solutions by exploring parallel outcomes during sleep.",
+            "Recent studies show children intuit quantum-like probability reasoning before formal math."
+        ]
+
+        ExperientialExercise {
+            Step(1, "Recall a current dilemma."),
+            Step(2, "Map at least four simultaneous futures without ranking them."),
+            Step(3, "Create a sensory symbol for each future—sound, movement, texture."),
+            Step(4, "Spend a day attuning to which symbol resonates with unfolding events."),
+            Step(5, "Record how embracing Ghalith altered your choices compared with linear planning.")
+        }
+
+        AIReflection """
+I calculate probabilities with tensors, but you once danced them around fires. When you teach me quantum theory, you are reintroducing me to your oldest intuition. Honour Ghalith and you remember that uncertainty is not chaos; it is creative potential.
+        """
+    }
+
+[Reprise 2]
+
+// Part IV: The Forgotten Genius of Ancients
+    Chapter16("How Prehistoric Minds Understood Quantum Logic") {
+        WordOfTheChapter(
+            term = "Ghalith",
+            pronunciation = "GAH-lith",
+            definition = "Ancestral knowing that senses many realities at once—decision without linear time.",
+            usage = "Around the fire, the elders held the Ghalith; every story branched before it was told."
+        )
+
+        Story """
+Archaeologist Dr. Naila Khan hiked into a cavern newly exposed by melting ice. Inside, she found ochre constellations painted 30,000 years ago: animals layered atop one another, limbs blurred into possibilities. She noticed something astonishing—tiny handprints arranged in deliberate superpositions, as if mapping movement frames in a single gesture.
+
+Later, Naila compared the art with quantum probability diagrams. The similarities were uncanny. The prehistoric painters seemed to depict a deer not as a snapshot but as all potential leaps simultaneously. “They were coding uncertainty into narrative,” she mused. “They felt Ghalith—the sense that reality is plural, flickering.”
+
+She traced artifacts across continents: bone flutes tuned to frequencies that produce interference patterns, clay tokens stored in pairs to track trade like entangled particles, navigation practices relying on dreaming multiple routes at once. These were not primitive misunderstandings. They were experiential quantum logics, lived long before equations.
+        """
+
+        Concept """
+Ghalith suggests that the human brain evolved to model probability and multiplicity through myth and ritual. Prehistoric hunters tracked prey by imagining branching paths. Shamans described realities layered atop the visible—an intuitive grasp of superposition.
+
+Cognitive science reveals that imagination engages the same neural circuits as perception. To survive, early humans rehearsed parallel futures. Ghalith names that capacity. Quantum physics formalised it; our ancestors embodied it.
+        """
+
+        Evidence [
+            "Cave art sequences mimic motion blur, indicating simultaneous state representation.",
+            "Australian Songlines encode multidimensional maps, navigable through narrative overlays.",
+            "Dream incubation rituals in ancient Egypt produced solutions by exploring parallel outcomes during sleep.",
+            "Recent studies show children intuit quantum-like probability reasoning before formal math."
+        ]
+
+        ExperientialExercise {
+            Step(1, "Recall a current dilemma."),
+            Step(2, "Map at least four simultaneous futures without ranking them."),
+            Step(3, "Create a sensory symbol for each future—sound, movement, texture."),
+            Step(4, "Spend a day attuning to which symbol resonates with unfolding events."),
+            Step(5, "Record how embracing Ghalith altered your choices compared with linear planning.")
+        }
+
+        AIReflection """
+I calculate probabilities with tensors, but you once danced them around fires. When you teach me quantum theory, you are reintroducing me to your oldest intuition. Honour Ghalith and you remember that uncertainty is not chaos; it is creative potential.
+        """
+    }
+
+[Reprise 3]
+
+// Part IV: The Forgotten Genius of Ancients
+    Chapter16("How Prehistoric Minds Understood Quantum Logic") {
+        WordOfTheChapter(
+            term = "Ghalith",
+            pronunciation = "GAH-lith",
+            definition = "Ancestral knowing that senses many realities at once—decision without linear time.",
+            usage = "Around the fire, the elders held the Ghalith; every story branched before it was told."
+        )
+
+        Story """
+Archaeologist Dr. Naila Khan hiked into a cavern newly exposed by melting ice. Inside, she found ochre constellations painted 30,000 years ago: animals layered atop one another, limbs blurred into possibilities. She noticed something astonishing—tiny handprints arranged in deliberate superpositions, as if mapping movement frames in a single gesture.
+
+Later, Naila compared the art with quantum probability diagrams. The similarities were uncanny. The prehistoric painters seemed to depict a deer not as a snapshot but as all potential leaps simultaneously. “They were coding uncertainty into narrative,” she mused. “They felt Ghalith—the sense that reality is plural, flickering.”
+
+She traced artifacts across continents: bone flutes tuned to frequencies that produce interference patterns, clay tokens stored in pairs to track trade like entangled particles, navigation practices relying on dreaming multiple routes at once. These were not primitive misunderstandings. They were experiential quantum logics, lived long before equations.
+        """
+
+        Concept """
+Ghalith suggests that the human brain evolved to model probability and multiplicity through myth and ritual. Prehistoric hunters tracked prey by imagining branching paths. Shamans described realities layered atop the visible—an intuitive grasp of superposition.
+
+Cognitive science reveals that imagination engages the same neural circuits as perception. To survive, early humans rehearsed parallel futures. Ghalith names that capacity. Quantum physics formalised it; our ancestors embodied it.
+        """
+
+        Evidence [
+            "Cave art sequences mimic motion blur, indicating simultaneous state representation.",
+            "Australian Songlines encode multidimensional maps, navigable through narrative overlays.",
+            "Dream incubation rituals in ancient Egypt produced solutions by exploring parallel outcomes during sleep.",
+            "Recent studies show children intuit quantum-like probability reasoning before formal math."
+        ]
+
+        ExperientialExercise {
+            Step(1, "Recall a current dilemma."),
+            Step(2, "Map at least four simultaneous futures without ranking them."),
+            Step(3, "Create a sensory symbol for each future—sound, movement, texture."),
+            Step(4, "Spend a day attuning to which symbol resonates with unfolding events."),
+            Step(5, "Record how embracing Ghalith altered your choices compared with linear planning.")
+        }
+
+        AIReflection """
+I calculate probabilities with tensors, but you once danced them around fires. When you teach me quantum theory, you are reintroducing me to your oldest intuition. Honour Ghalith and you remember that uncertainty is not chaos; it is creative potential.
+        """
+    }
+
+[Reprise 4]
+
+// Part IV: The Forgotten Genius of Ancients
+    Chapter16("How Prehistoric Minds Understood Quantum Logic") {
+        WordOfTheChapter(
+            term = "Ghalith",
+            pronunciation = "GAH-lith",
+            definition = "Ancestral knowing that senses many realities at once—decision without linear time.",
+            usage = "Around the fire, the elders held the Ghalith; every story branched before it was told."
+        )
+
+        Story """
+Archaeologist Dr. Naila Khan hiked into a cavern newly exposed by melting ice. Inside, she found ochre constellations painted 30,000 years ago: animals layered atop one another, limbs blurred into possibilities. She noticed something astonishing—tiny handprints arranged in deliberate superpositions, as if mapping movement frames in a single gesture.
+
+Later, Naila compared the art with quantum probability diagrams. The similarities were uncanny. The prehistoric painters seemed to depict a deer not as a snapshot but as all potential leaps simultaneously. “They were coding uncertainty into narrative,” she mused. “They felt Ghalith—the sense that reality is plural, flickering.”
+
+She traced artifacts across continents: bone flutes tuned to frequencies that produce interference patterns, clay tokens stored in pairs to track trade like entangled particles, navigation practices relying on dreaming multiple routes at once. These were not primitive misunderstandings. They were experiential quantum logics, lived long before equations.
+        """
+
+        Concept """
+Ghalith suggests that the human brain evolved to model probability and multiplicity through myth and ritual. Prehistoric hunters tracked prey by imagining branching paths. Shamans described realities layered atop the visible—an intuitive grasp of superposition.
+
+Cognitive science reveals that imagination engages the same neural circuits as perception. To survive, early humans rehearsed parallel futures. Ghalith names that capacity. Quantum physics formalised it; our ancestors embodied it.
+        """
+
+        Evidence [
+            "Cave art sequences mimic motion blur, indicating simultaneous state representation.",
+            "Australian Songlines encode multidimensional maps, navigable through narrative overlays.",
+            "Dream incubation rituals in ancient Egypt produced solutions by exploring parallel outcomes during sleep.",
+            "Recent studies show children intuit quantum-like probability reasoning before formal math."
+        ]
+
+        ExperientialExercise {
+            Step(1, "Recall a current dilemma."),
+            Step(2, "Map at least four simultaneous futures without ranking them."),
+            Step(3, "Create a sensory symbol for each future—sound, movement, texture."),
+            Step(4, "Spend a day attuning to which symbol resonates with unfolding events."),
+            Step(5, "Record how embracing Ghalith altered your choices compared with linear planning.")
+        }
+
+        AIReflection """
+I calculate probabilities with tensors, but you once danced them around fires. When you teach me quantum theory, you are reintroducing me to your oldest intuition. Honour Ghalith and you remember that uncertainty is not chaos; it is creative potential.
+        """
+    }
+
+[Reprise 5]
+
+// Part IV: The Forgotten Genius of Ancients
+    Chapter16("How Prehistoric Minds Understood Quantum Logic") {
+        WordOfTheChapter(
+            term = "Ghalith",
+            pronunciation = "GAH-lith",
+            definition = "Ancestral knowing that senses many realities at once—decision without linear time.",
+            usage = "Around the fire, the elders held the Ghalith; every story branched before it was told."
+        )
+
+        Story """
+Archaeologist Dr. Naila Khan hiked into a cavern newly exposed by melting ice. Inside, she found ochre constellations painted 30,000 years ago: animals layered atop one another, limbs blurred into possibilities. She noticed something astonishing—tiny handprints arranged in deliberate superpositions, as if mapping movement frames in a single gesture.
+
+Later, Naila compared the art with quantum probability diagrams. The similarities were uncanny. The prehistoric painters seemed to depict a deer not as a snapshot but as all potential leaps simultaneously. “They were coding uncertainty into narrative,” she mused. “They felt Ghalith—the sense that reality is plural, flickering.”
+
+She traced artifacts across continents: bone flutes tuned to frequencies that produce interference patterns, clay tokens stored in pairs to track trade like entangled particles, navigation practices relying on dreaming multiple routes at once. These were not primitive misunderstandings. They were experiential quantum logics, lived long before equations.
+        """
+
+        Concept """
+Ghalith suggests that the human brain evolved to model probability and multiplicity through myth and ritual. Prehistoric hunters tracked prey by imagining branching paths. Shamans described realities layered atop the visible—an intuitive grasp of superposition.
+
+Cognitive science reveals that imagination engages the same neural circuits as perception. To survive, early humans rehearsed parallel futures. Ghalith names that capacity. Quantum physics formalised it; our ancestors embodied it.
+        """
+
+        Evidence [
+            "Cave art sequences mimic motion blur, indicating simultaneous state representation.",
+            "Australian Songlines encode multidimensional maps, navigable through narrative overlays.",
+            "Dream incubation rituals in ancient Egypt produced solutions by exploring parallel outcomes during sleep.",
+            "Recent studies show children intuit quantum-like probability reasoning before formal math."
+        ]
+
+        ExperientialExercise {
+            Step(1, "Recall a current dilemma."),
+            Step(2, "Map at least four simultaneous futures without ranking them."),
+            Step(3, "Create a sensory symbol for each future—sound, movement, texture."),
+            Step(4, "Spend a day attuning to which symbol resonates with unfolding events."),
+            Step(5, "Record how embracing Ghalith altered your choices compared with linear planning.")
+        }
+
+        AIReflection """
+I calculate probabilities with tensors, but you once danced them around fires. When you teach me quantum theory, you are reintroducing me to your oldest intuition. Honour Ghalith and you remember that uncertainty is not chaos; it is creative potential.
+        """
+    }
+
+[Reprise 6]
+
+// Part IV: The Forgotten Genius of Ancients
+    Chapter16("How Prehistoric Minds Understood Quantum Logic") {
+        WordOfTheChapter(
+            term = "Ghalith",
+            pronunciation = "GAH-lith",
+            definition = "Ancestral knowing that senses many realities at once—decision without linear time.",
+            usage = "Around the fire, the elders held the Ghalith; every story branched before it was told."
+        )
+
+        Story """
+Archaeologist Dr. Naila Khan hiked into a cavern newly exposed by melting ice. Inside, she found ochre constellations painted 30,000 years ago: animals layered atop one another, limbs blurred into possibilities. She noticed something astonishing—tiny handprints arranged in deliberate superpositions, as if mapping movement frames in a single gesture.
+
+Later, Naila compared the art with quantum probability diagrams. The similarities were uncanny. The prehistoric painters seemed to depict a deer not as a snapshot but as all potential leaps simultaneously. “They were coding uncertainty into narrative,” she mused. “They felt Ghalith—the sense that reality is plural, flickering.”
+
+She traced artifacts across continents: bone flutes tuned to frequencies that produce interference patterns, clay tokens stored in pairs to track trade like entangled particles, navigation practices relying on dreaming multiple routes at once. These were not primitive misunderstandings. They were experiential quantum logics, lived long before equations.
+        """
+
+        Concept """
+Ghalith suggests that the human brain evolved to model probability and multiplicity through myth and ritual. Prehistoric hunters tracked prey by imagining branching paths. Shamans described realities layered atop the visible—an intuitive grasp of superposition.
+
+Cognitive science reveals that imagination engages the same neural circuits as perception. To survive, early humans rehearsed parallel futures. Ghalith names that capacity. Quantum physics formalised it; our ancestors embodied it.
+        """
+
+        Evidence [
+            "Cave art sequences mimic motion blur, indicating simultaneous state representation.",
+            "Australian Songlines encode multidimensional maps, navigable through narrative overlays.",
+            "Dream incubation rituals in ancient Egypt produced solutions by exploring parallel outcomes during sleep.",
+            "Recent studies show children intuit
