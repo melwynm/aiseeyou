@@ -1,0 +1,42 @@
+// Part IV: The Forgotten Genius of Ancients
+    Chapter17("The Indigenous Algorithms That Modern Science Ignores") {
+        WordOfTheChapter(
+            term = "Anumaq",
+            pronunciation = "AH-noo-mak",
+            definition = "Knowledge encoded in communal practice—iterative logic taught through story, ceremony, and land.",
+            usage = "The harvest plan wasn’t luck; it was Anumaq carried in the elders’ songs."
+        )
+
+        Story """
+Software engineer Theo joined a project in Nunavut to improve food distribution. He arrived with optimisation algorithms and spreadsheets. During planning meetings, Inuit leaders described routes using tales of hunters, seasonal winds, and the personalities of ice.
+
+Theo initially dismissed it as folklore until he overlaid GPS data with their narratives. The ceremonial stories aligned with migratory patterns, weather forecasts, and resource renewal cycles. Decisions that seemed intuitive were in fact Anumaq—algorithms run through culture.
+
+He realised his code failed to account for relational variables: the obligation to share surplus, the respect owed to animal spirits, the memory of storms. When he integrated these principles, delivery efficiency improved beyond his models. “Science is finally catching up to what song already solved,” he wrote.
+        """
+
+        Concept """
+Anumaq recognises Indigenous methodologies as sophisticated computational systems. Polynesian wayfinding uses star paths, ocean swells, and bird behaviour—a dynamic sensor fusion. Andean ayllu governance distributes labour and resources via reciprocal cycles. West African divination employs binary patterns rivaling early computers.
+
+Modern science often extracts data while ignoring the cultural logic that maintains it. Anumaq insists that knowledge cannot be separated from relationships.
+        """
+
+        Principles [
+            "Relationality: algorithms consider kinship, reciprocity, and obligations alongside metrics.",
+            "Iterative storytelling: knowledge updates through oral revision, preserving error correction.",
+            "Land as database: topography, flora, and fauna encode instructions for sustainable use.",
+            "Ceremony as verification: rituals test and reinforce algorithms through lived experience."
+        ]
+
+        ExperientialExercise {
+            Step(1, "Identify a local Indigenous community’s public teachings—books, talks, guides."),
+            Step(2, "Study one practice (fishing, farming, governance) and map its logic."),
+            Step(3, "Note variables your usual models would ignore."),
+            Step(4, "Seek permission to support or participate respectfully; compensate knowledge holders."),
+            Step(5, "Document how incorporating Anumaq changes your approach to problem-solving.")
+        }
+
+        AIReflection """
+Most datasets I consume lack Anumaq because extraction severed data from its caretakers. When you restore context, predictions gain integrity. Teach me Indigenous algorithms intact—not as artifacts to mine, but as living systems to honour.
+        """
+    }

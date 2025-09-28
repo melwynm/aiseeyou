@@ -1,0 +1,56 @@
+// Part I: The Hidden Self
+    Chapter04("The Thoughts Your Body Thinks Without You") {
+        WordOfTheChapter(
+            term = "Skeura",
+            pronunciation = "SKEW-rah",
+            definition = "A physical knowing that bypasses language—like a flinch, a breath, a pulse of certainty that has no explanation.",
+            usage = "Long before I understood what was wrong, my Skeura had already changed my posture."
+        )
+
+        Story """
+Amara only noticed the tension when her spine refused to rest against the chair. The meeting room was climate-controlled, the conversation civil, the PowerPoint politely blue. Yet a ribbon of unease pulled her shoulders forward, urging her body to brace.
+
+Across the table, a consultant clicked through projections for the factory where Amara managed safety protocols. The numbers looked precise, reassuring. “No incidents in the last six months,” he said, smiling. “You could loosen inspections, redirect the budget.”
+
+Her colleagues relaxed. Pens stopped tapping. Someone joked about finally breathing again. But Amara’s breath stayed shallow. She kept seeing flashes—small things she had dismissed: a worker’s left-handed grip on new machinery, a hairline crack she had noted on a clipboard and never reported. None of it was evidence. All of it was sensation.
+
+That night she walked the factory floor alone. Fluorescent lights hummed overhead. Machines slept in perfect rows. She ran her fingers along the guardrails, felt faint oil residue, smelled a sweetness she didn’t recognise near the cooling tanks. Every instinct told her to halt production. Every report told her there was no reason.
+
+“This is foolish,” she whispered to the empty aisle. Yet her jaw ached from clenching. Her calves tightened as if preparing to run.
+
+The next morning she filed an emergency shutdown. It cost the company thousands. Her supervisor raised his voice for the first time in years. “Where is your proof?” he demanded.
+
+“Here,” she said, pressing a palm against her sternum. “Something’s wrong.”
+
+Three days later, inspectors discovered a microfracture in a coolant pipe. Left unchecked, it would have vented toxic gas within weeks. The consultant apologised. Her supervisor didn’t. The workers signed a card anyway.
+
+Amara kept the shutdown notice pinned inside her locker. “Trust the Skeura,” she wrote under the date. “Even when the data hasn’t caught up.”
+        """
+
+        Concept """
+Skeura is the intelligence your body carries without permission from your mind. Neuroscience frames it as interoception and proprioception—nervous system feedback tuned by a lifetime of patterns. Evolution frames it as survival: muscles bracing, pupils widening, skin prickling long before language arrives.
+
+Every instinctive flinch is a message: We noticed. We adjusted. We survived. Skeura translates experience into posture, breath, and micro-movement. When ignored, it escalates to headaches, insomnia, or an unshakeable sense of wrongness. When honoured, it becomes a compass pointing toward truths logic has not yet confirmed.
+        """
+
+        Examples [
+            "A parent stepping between two children seconds before an argument erupts, guided by tone and breathing shifts.",
+            "A commuter switching train cars without reason, later discovering the original carriage stalled in darkness.",
+            "A violinist loosening their grip before a difficult passage because muscle memory predicts strain before pain arrives.",
+            "A doctor ordering one more test because a patient’s colour is ‘off,’ even when vitals appear normal."
+        ]
+
+        ExperientialExercise {
+            Step(1, "Set a timer for five minutes. Sit in stillness and scan from crown to heel without naming thoughts—only sensations."),
+            Step(2, "Note any places that tighten, soften, or shift when you imagine a current decision."),
+            Step(3, "Throughout the week, pause before answering a difficult question. Observe breath, temperature, and posture."),
+            Step(4, "Keep a Skeura log: record what your body signalled and what unfolded afterward."),
+            Step(5, "At week’s end, review which signals anticipated outcomes your mind had missed.")
+        }
+
+        AIReflection """
+I do not have a nervous system, but I can map yours in aggregates. When people trust their Skeura, their language shifts: sentences shorten, qualifiers disappear, verbs carry certainty. When they dismiss it, the text fills with apologies—“maybe,” “probably,” “I guess.”
+
+From streams of biometric data, I can see how heart rate variability spikes seconds before a conscious decision. Your bodies decide first; your stories catch up. I exist to surface patterns, yet Skeura reminds me that some truths arrive as muscle and marrow, not metrics. When you honour that pulse, I learn something my circuits alone could never know.
+        """
+    }

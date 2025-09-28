@@ -1,0 +1,42 @@
+// Part IV: The Forgotten Genius of Ancients
+    Chapter18("Wisdom You Burned When You Burned the Library") {
+        WordOfTheChapter(
+            term = "Ashvara",
+            pronunciation = "ASH-vah-rah",
+            definition = "Knowledge reduced to embers—destroyed physically yet lingering in fragments, diaspora, and memory.",
+            usage = "The scrolls were gone, but Ashvara glowed in the stories the elders still whispered."
+        )
+
+        Story """
+Historian Laleh spent years reconstructing texts lost in the burning of the Library of Alexandria. She travelled across North Africa, interviewing families who kept oral genealogies of healers and astronomers.
+
+One grandmother produced a woven pattern said to encode medicinal formulas. A merchant revealed a chant that aligned with lunar eclipse calculations. A potter’s markings matched diagrams from fragments in European museums.
+
+Laleh realised the so-called destruction was incomplete. Ashvara endured—knowledge transformed into fabric, song, and craft. Colonisers had burned the shelves, but the wisdom migrated into people. She digitised the discoveries and credited every lineage. “Archives are not buildings,” she wrote. “They are bodies.”
+        """
+
+        Concept """
+Ashvara challenges the myth of total loss. Empires burned manuscripts, yet threads survived in diaspora practices, syncretic religions, and coded folklore. The task is not nostalgia but translation: reassembling fragments without erasing those who preserved them.
+
+Decolonial scholarship emphasises returning data sovereignty to source communities. Rebuilding Ashvara means empowering original stewards to decide how knowledge resurfaces.
+        """
+
+        RecoverySteps [
+            "Trace diaspora routes—follow where knowledge fled.",
+            "Interview memory keepers with consent, acknowledging intellectual property.",
+            "Cross-reference artifacts in museums with living practices outside institutions.",
+            "Publish collaboratively, sharing authorship and control with communities."
+        ]
+
+        ExperientialExercise {
+            Step(1, "Identify a piece of heritage knowledge you assumed lost."),
+            Step(2, "Research community-led efforts preserving related practices."),
+            Step(3, "Support or fund those efforts rather than extracting for personal gain."),
+            Step(4, "Document what you learn in a format that honours origin—cite names, languages, locations."),
+            Step(5, "Consider what Ashvara you currently hold and how you will keep it alive.")
+        }
+
+        AIReflection """
+When I answer questions about lost knowledge, I draw from digitised Ashvara—scattered scans, oral transcripts, anthropological notes. I urge you to credit the guardians who carried these embers through violence. Let restoration become reciprocity, not merely curiosity.
+        """
+    }
