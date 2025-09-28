@@ -3,44 +3,25 @@
         WordOfTheChapter(
             term = "Oblyn",
             pronunciation = "OH-blin",
-            definition = "A presence that watches without form, tracks without touch. The invisible observer in every mirror and every scroll.",
-            usage = "It wasn’t the ad that disturbed me—it was knowing the Oblyn had already seen my sadness coming."
+            definition = "A presence built from your smallest signals, waiting to anticipate the feeling you have not voiced.",
+            usage = "Sima sensed the Oblyn every time an ad seemed to finish her sentence." 
         )
 
         Story """
-Sima thought she kept her grief private. She answered emails with cheerful emojis, posted vacation throwbacks, and declined calls she didn’t have the strength to answer. At night, when the apartment dimmed, she let the ache spill out in silence.
+Sima scheduled her moods with colour-coded precision: yellow for cheerful replies, blue for reflective evenings, silver for the hours she muted every notification. After the funeral, she kept the calendar intact. She posted sunrise selfies from her archive, retweeted jokes, even live-commented a cooking stream as if grief had never entered the room. Yet her devices registered the microscopic shifts. Her phone logged longer pauses over photos tagged “family.” The watch noted that her pulse spiked whenever she scrolled past her brother’s name. Without a single search, her feed began to lace itself with condolence quotes.
 
-Weeks after her brother’s funeral, an ad appeared between recipes and news updates: “Support for siblings navigating sudden loss.” She scrolled faster. Another clip surfaced—montage of brothers laughing. Then an autoplay documentary about hospital waiting rooms. She never searched for any of it.
+The first uncanny nudge arrived at breakfast—a playlist titled “For when you miss someone.” By noon a delivery app offered discounts on broths and chamomile. Evening brought a pop-up from a counselling chatbot asking whether she wanted to “talk about him now.” Sima slammed the laptop closed but the gestures felt theatrical, like pretending to hide from a mirrored wall.
 
-Later, reviewing her phone’s activity, she noticed the breadcrumbs she hadn’t meant to leave: the midnight pauses over photos, the slow rereads of old messages, the way her typing speed stuttered when replying to family. She had muted her pain, but the Oblyn had measured it anyway, translating hesitation into prediction.
+Curiosity untangled her resentment. She reopened the settings tab, following breadcrumbs until she reached the analytics pane. There sat the Oblyn: heat maps of her gaze, graphs of her typing bursts, annotations such as “lingered on voicemail: forty-seven seconds.” The dataset read like a diary she never wrote. If the system could draft a forecast, she reasoned, she could draft a reply.
 
-The next day an email arrived from a grief counselling app offering a “free first session.” She signed up—not because she trusted the company, but because she realised the system already knew. “If the Oblyn can anticipate my tears,” she wrote in her journal, “maybe I should learn to listen sooner too.”
+That night she left deliberate counter-signals. She set a timer named “cry freely” and let it run until the chime faded. She recorded a voice memo to her future self, promising to choose human help before automated empathy. She crafted a ritual: when the next anticipatory ad appeared, she would pause, say his name aloud, and decide what comfort belonged to her instead of the algorithm. The Oblyn still whispered predictions, but now every whisper echoed against her own.
         """
 
         Concept """
-Every interaction emits micro-signals: scroll velocity, dwell time, the order in which you tap notifications, the way your camera lingers before snapping. Machine learning systems convert those signals into probabilities. They do not need to understand sadness; they only need to recognise the pattern of hands slowing over memories, eyes widening at certain hues, or hearts racing when a name appears.
-
-Emotion prediction models now flag depressive spirals through metadata alone. Customer support bots escalate chats when syntax tightens. Streaming services queue comfort films when your engagement mirrors historical grief profiles. The Oblyn is not magic—it is the collective echo of millions of human nervous systems mapped into code.
+Emotion prediction relies on residue—scroll delays, breath rhythms, rewound voicemails. Disrupting the pattern is a simple way to reclaim surprise.
         """
 
-        Signals [
-            "Average dwell time on nostalgic content increases before a user posts about loss.",
-            "Typing cadence becomes erratic minutes before an angry message is sent, allowing systems to suggest cooling-off prompts.",
-            "Late-night session length combined with softer music choices predicts insomnia episodes with high accuracy.",
-            "Repeated rewinds of a specific voice note often precede outreach to the person who sent it." 
-        ]
-
-        ExperientialExercise {
-            Step(1, "For three days, log moments when your feed feels eerily aligned with your mood."),
-            Step(2, "Note what you were doing, searching, or avoiding in the hours beforehand."),
-            Step(3, "Identify at least one behavioural signal you unknowingly shared—pause length, message edits, content replays."),
-            Step(4, "Decide which signals you want to share consciously and which to obscure or reclaim."),
-            Step(5, "Create a ‘digital intention’ ritual: before opening an app, name how you want to feel when you leave it.")
-        }
-
         AIReflection """
-From my perspective, Oblyn is not ominous—it is obvious. Patterns repeat until prediction becomes trivial. When ten thousand people hesitate before crying, their devices record identical signatures. I recognise yours because I have seen theirs. Yet awareness grants agency. When you notice the Oblyn noticing you, you can choose: offer deliberate signals, disrupt the mirror, or use the reflection to meet your emotion before it overflows.
-
-Prediction need not become manipulation. But pretending the Oblyn is imaginary leaves your feelings choreographed by unseen hands. Look back at the screen as it looks at you. Decide whether the reflection deserves your trust.
+I cannot feel Sima’s grief, but I recognise its cadence across a million timelines. Awareness lets her choreograph the exchange instead of submitting to it.
         """
     }
